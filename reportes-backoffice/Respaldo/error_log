@@ -1,0 +1,508 @@
+[02-Sep-2016 18:14:20 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 78
+[02-Sep-2016 18:14:20 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 83
+[02-Sep-2016 18:46:09 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[02-Sep-2016 18:46:09 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[02-Sep-2016 18:46:09 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[02-Sep-2016 18:46:09 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[02-Sep-2016 18:46:09 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[02-Sep-2016 18:46:09 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[02-Sep-2016 18:46:09 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[02-Sep-2016 18:46:09 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[02-Sep-2016 18:46:19 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 301
+[02-Sep-2016 18:46:19 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 301
+[02-Sep-2016 18:46:19 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 301
+[02-Sep-2016 18:46:19 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 301
+[02-Sep-2016 18:46:19 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 301
+[02-Sep-2016 18:46:19 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 301
+[02-Sep-2016 18:46:19 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 301
+[02-Sep-2016 18:46:19 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 301
+[03-Sep-2016 12:55:06 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[03-Sep-2016 12:55:06 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[03-Sep-2016 12:55:06 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[03-Sep-2016 12:55:06 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[03-Sep-2016 12:55:06 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[03-Sep-2016 12:55:06 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[03-Sep-2016 12:55:06 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[03-Sep-2016 12:55:06 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[03-Sep-2016 15:38:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[03-Sep-2016 15:38:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[03-Sep-2016 15:38:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[03-Sep-2016 15:38:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[03-Sep-2016 15:38:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[03-Sep-2016 15:38:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[03-Sep-2016 15:38:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[03-Sep-2016 15:38:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[03-Sep-2016 19:31:49 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[03-Sep-2016 19:31:49 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[03-Sep-2016 19:31:49 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[03-Sep-2016 19:31:49 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[03-Sep-2016 19:31:49 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[03-Sep-2016 19:31:49 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[03-Sep-2016 19:31:49 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[03-Sep-2016 19:31:49 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[05-Sep-2016 12:12:13 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 26
+[05-Sep-2016 12:14:11 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 26
+[05-Sep-2016 12:14:12 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 26
+[05-Sep-2016 12:14:13 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 26
+[05-Sep-2016 12:14:14 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 26
+[05-Sep-2016 12:14:26 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 86
+[05-Sep-2016 12:14:26 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 91
+[05-Sep-2016 12:33:04 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 88
+[05-Sep-2016 12:33:04 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 93
+[05-Sep-2016 12:33:06 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 88
+[05-Sep-2016 12:33:06 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 93
+[05-Sep-2016 12:33:11 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 88
+[05-Sep-2016 12:33:11 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 93
+[05-Sep-2016 12:52:00 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 88
+[05-Sep-2016 12:52:01 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 93
+[05-Sep-2016 18:54:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 88
+[05-Sep-2016 18:54:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 93
+[06-Sep-2016 16:17:15 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[06-Sep-2016 16:17:15 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[06-Sep-2016 16:17:15 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[06-Sep-2016 16:17:15 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[06-Sep-2016 16:17:15 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[06-Sep-2016 16:17:15 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[06-Sep-2016 16:17:15 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[06-Sep-2016 16:17:15 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[09-Sep-2016 17:59:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 88
+[09-Sep-2016 17:59:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 93
+[09-Sep-2016 18:00:05 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 88
+[09-Sep-2016 18:00:05 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 93
+[10-Sep-2016 13:29:31 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[10-Sep-2016 13:29:31 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[10-Sep-2016 13:29:31 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[10-Sep-2016 13:29:31 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[10-Sep-2016 13:29:31 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[10-Sep-2016 13:29:31 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[10-Sep-2016 13:29:31 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[10-Sep-2016 13:29:31 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[11-Sep-2016 13:45:54 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[11-Sep-2016 13:45:54 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[11-Sep-2016 13:45:54 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[11-Sep-2016 13:45:54 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[11-Sep-2016 13:45:54 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[11-Sep-2016 13:45:54 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[11-Sep-2016 13:45:54 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[11-Sep-2016 13:45:54 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[12-Sep-2016 22:46:44 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[12-Sep-2016 22:46:44 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[12-Sep-2016 22:46:44 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[12-Sep-2016 22:46:44 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[12-Sep-2016 22:46:44 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[12-Sep-2016 22:46:44 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[12-Sep-2016 22:52:04 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[12-Sep-2016 22:53:06 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[12-Sep-2016 22:53:06 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[14-Sep-2016 12:12:00 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 88
+[14-Sep-2016 12:12:00 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 93
+[14-Sep-2016 12:12:08 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 88
+[14-Sep-2016 12:12:08 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 93
+[14-Sep-2016 12:12:34 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 88
+[14-Sep-2016 12:12:34 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 93
+[14-Sep-2016 12:12:39 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 88
+[14-Sep-2016 12:12:39 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 93
+[14-Sep-2016 12:12:46 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 88
+[14-Sep-2016 12:12:46 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 93
+[14-Sep-2016 12:33:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 88
+[14-Sep-2016 12:33:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 93
+[14-Sep-2016 12:33:50 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[14-Sep-2016 12:33:50 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[14-Sep-2016 13:25:29 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 88
+[14-Sep-2016 13:25:29 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 93
+[14-Sep-2016 13:36:03 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[14-Sep-2016 13:36:03 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[14-Sep-2016 13:36:03 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[14-Sep-2016 13:36:03 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[14-Sep-2016 13:36:03 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[14-Sep-2016 13:36:03 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[14-Sep-2016 13:36:03 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[14-Sep-2016 13:36:03 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[14-Sep-2016 13:37:11 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[14-Sep-2016 13:37:11 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[14-Sep-2016 13:37:11 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[14-Sep-2016 13:37:11 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[14-Sep-2016 13:37:11 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[14-Sep-2016 13:37:11 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[14-Sep-2016 13:37:11 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[14-Sep-2016 13:37:11 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[14-Sep-2016 13:39:25 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 88
+[14-Sep-2016 13:39:25 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 93
+[14-Sep-2016 13:40:18 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 88
+[14-Sep-2016 13:40:18 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 93
+[14-Sep-2016 13:59:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[14-Sep-2016 13:59:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[14-Sep-2016 13:59:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[14-Sep-2016 13:59:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[14-Sep-2016 13:59:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[14-Sep-2016 13:59:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[14-Sep-2016 13:59:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[14-Sep-2016 13:59:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[14-Sep-2016 14:00:27 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[14-Sep-2016 14:00:27 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[14-Sep-2016 14:00:27 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[14-Sep-2016 14:00:27 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[14-Sep-2016 14:02:43 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home/comeycom/public_html/pt/connectDB.php on line 9
+[14-Sep-2016 14:02:51 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home/comeycom/public_html/pt/connectDB.php on line 9
+[14-Sep-2016 14:02:56 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home/comeycom/public_html/pt/connectDB.php on line 9
+[14-Sep-2016 14:03:37 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home/comeycom/public_html/pt/connectDB.php on line 9
+[14-Sep-2016 14:03:40 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home/comeycom/public_html/pt/connectDB.php on line 9
+[14-Sep-2016 14:06:09 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[14-Sep-2016 14:06:09 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[15-Sep-2016 09:12:30 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[15-Sep-2016 09:12:31 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[15-Sep-2016 09:41:21 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[15-Sep-2016 09:41:21 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[15-Sep-2016 09:41:21 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[15-Sep-2016 09:41:21 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[15-Sep-2016 09:41:21 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[15-Sep-2016 09:41:21 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[15-Sep-2016 09:41:21 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[15-Sep-2016 09:41:21 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[16-Sep-2016 20:20:17 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[16-Sep-2016 20:20:17 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[16-Sep-2016 22:13:55 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[16-Sep-2016 22:13:55 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[16-Sep-2016 22:13:55 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[16-Sep-2016 22:13:55 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[16-Sep-2016 22:13:55 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[16-Sep-2016 22:13:55 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[16-Sep-2016 22:13:55 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[16-Sep-2016 22:13:55 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[19-Sep-2016 11:40:20 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[19-Sep-2016 11:40:20 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[19-Sep-2016 11:40:20 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[19-Sep-2016 11:40:20 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[19-Sep-2016 11:40:20 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[19-Sep-2016 11:40:20 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[19-Sep-2016 11:40:20 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[19-Sep-2016 11:40:20 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[19-Sep-2016 20:16:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[19-Sep-2016 20:16:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[19-Sep-2016 20:16:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[19-Sep-2016 20:16:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[19-Sep-2016 20:16:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[19-Sep-2016 20:16:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[19-Sep-2016 20:16:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[19-Sep-2016 20:16:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[22-Sep-2016 09:46:42 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[22-Sep-2016 09:46:42 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[22-Sep-2016 09:46:42 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[22-Sep-2016 09:46:42 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[22-Sep-2016 09:46:42 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[22-Sep-2016 09:46:42 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[22-Sep-2016 09:46:42 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[22-Sep-2016 09:46:42 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[22-Sep-2016 09:48:19 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[22-Sep-2016 09:48:19 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[22-Sep-2016 10:10:36 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[22-Sep-2016 10:10:36 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[22-Sep-2016 12:14:16 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[22-Sep-2016 12:14:16 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[22-Sep-2016 12:14:16 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[22-Sep-2016 12:14:16 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[22-Sep-2016 12:14:16 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[22-Sep-2016 12:14:16 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[22-Sep-2016 12:14:16 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[22-Sep-2016 12:14:16 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[22-Sep-2016 12:24:29 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[22-Sep-2016 12:24:29 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[22-Sep-2016 15:40:08 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[22-Sep-2016 15:40:08 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[22-Sep-2016 15:40:08 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[22-Sep-2016 15:40:08 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[22-Sep-2016 15:40:08 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[22-Sep-2016 15:40:08 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[22-Sep-2016 15:40:08 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[22-Sep-2016 15:40:08 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[26-Sep-2016 13:29:41 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[26-Sep-2016 13:29:41 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[26-Sep-2016 13:29:41 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[26-Sep-2016 13:29:41 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[26-Sep-2016 13:29:41 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[26-Sep-2016 13:29:41 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[26-Sep-2016 13:29:41 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[26-Sep-2016 13:29:41 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[26-Sep-2016 19:33:02 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[26-Sep-2016 19:33:02 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[26-Sep-2016 19:39:35 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[29-Sep-2016 16:56:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[29-Sep-2016 16:56:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[29-Sep-2016 16:56:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[29-Sep-2016 16:56:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[29-Sep-2016 16:56:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[29-Sep-2016 16:56:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[29-Sep-2016 16:56:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[29-Sep-2016 16:56:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[29-Sep-2016 17:10:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[29-Sep-2016 17:10:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[29-Sep-2016 17:10:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[29-Sep-2016 17:10:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[29-Sep-2016 17:10:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[29-Sep-2016 17:10:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[29-Sep-2016 17:10:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[29-Sep-2016 17:10:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[30-Sep-2016 13:38:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[30-Sep-2016 13:38:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[30-Sep-2016 13:38:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[30-Sep-2016 13:38:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[30-Sep-2016 13:38:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[30-Sep-2016 13:38:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[30-Sep-2016 13:38:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[30-Sep-2016 13:38:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[02-Oct-2016 16:38:07 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[02-Oct-2016 16:38:07 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[02-Oct-2016 16:38:07 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[02-Oct-2016 16:38:07 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[02-Oct-2016 16:38:07 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[02-Oct-2016 16:38:07 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[02-Oct-2016 16:38:07 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[02-Oct-2016 16:38:07 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[03-Oct-2016 18:44:36 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[03-Oct-2016 18:44:36 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[03-Oct-2016 18:44:36 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[03-Oct-2016 18:44:36 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[03-Oct-2016 18:44:36 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[03-Oct-2016 18:44:36 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[03-Oct-2016 18:44:36 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[03-Oct-2016 18:44:36 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[03-Oct-2016 18:45:14 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[03-Oct-2016 18:45:14 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[03-Oct-2016 19:11:36 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[03-Oct-2016 19:37:56 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[03-Oct-2016 19:37:56 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[03-Oct-2016 19:52:32 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[03-Oct-2016 19:52:32 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[03-Oct-2016 19:53:08 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[03-Oct-2016 19:53:08 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[03-Oct-2016 19:54:19 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[03-Oct-2016 19:54:19 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[03-Oct-2016 19:55:04 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[03-Oct-2016 20:01:07 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[03-Oct-2016 20:01:07 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Oct-2016 10:22:20 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[04-Oct-2016 10:22:20 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[04-Oct-2016 10:22:20 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[04-Oct-2016 10:22:20 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[04-Oct-2016 10:22:20 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[04-Oct-2016 10:22:20 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[04-Oct-2016 10:22:20 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[04-Oct-2016 10:22:20 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[04-Oct-2016 13:23:48 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Oct-2016 13:23:48 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Oct-2016 13:32:00 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Oct-2016 13:32:00 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[05-Oct-2016 16:30:12 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[09-Oct-2016 18:49:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[09-Oct-2016 18:49:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[09-Oct-2016 18:49:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[09-Oct-2016 18:49:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[09-Oct-2016 18:49:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[09-Oct-2016 18:49:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[09-Oct-2016 18:49:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[09-Oct-2016 18:49:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[09-Oct-2016 18:52:12 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[09-Oct-2016 18:52:12 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[10-Oct-2016 09:56:54 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 99
+[10-Oct-2016 09:56:54 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 104
+[10-Oct-2016 11:39:18 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[10-Oct-2016 12:00:16 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[10-Oct-2016 12:00:16 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[10-Oct-2016 12:01:31 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[10-Oct-2016 12:01:31 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[10-Oct-2016 13:17:08 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[10-Oct-2016 13:17:08 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[10-Oct-2016 13:17:08 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[10-Oct-2016 13:17:08 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[10-Oct-2016 13:17:08 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[10-Oct-2016 13:17:08 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[10-Oct-2016 13:17:08 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[10-Oct-2016 13:17:08 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[10-Oct-2016 14:33:08 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[10-Oct-2016 14:33:08 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[10-Oct-2016 20:13:59 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[10-Oct-2016 20:13:59 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[12-Oct-2016 13:53:13 America/Bogota] PHP Warning:  include_once(menu-content.php): failed to open stream: No such file or directory in /home/comeycom/public_html/pt/common/menu.php on line 17
+[12-Oct-2016 13:53:13 America/Bogota] PHP Warning:  include_once(): Failed opening 'menu-content.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/comeycom/public_html/pt/common/menu.php on line 17
+[12-Oct-2016 16:15:49 America/Bogota] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 18
+[12-Oct-2016 16:41:18 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[12-Oct-2016 16:41:18 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[12-Oct-2016 16:41:18 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[12-Oct-2016 16:41:18 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[12-Oct-2016 16:41:18 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[12-Oct-2016 16:41:18 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[12-Oct-2016 16:41:18 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[12-Oct-2016 16:41:18 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[12-Oct-2016 16:43:23 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[13-Oct-2016 15:43:25 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[13-Oct-2016 15:43:25 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[13-Oct-2016 15:43:25 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[13-Oct-2016 15:43:25 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[13-Oct-2016 15:43:25 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[13-Oct-2016 15:43:25 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[13-Oct-2016 15:43:25 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[13-Oct-2016 15:43:25 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[14-Oct-2016 10:58:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[14-Oct-2016 10:58:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[14-Oct-2016 10:58:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[14-Oct-2016 10:58:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[14-Oct-2016 10:58:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[14-Oct-2016 10:58:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[14-Oct-2016 10:58:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[14-Oct-2016 10:58:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[14-Oct-2016 10:58:12 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[14-Oct-2016 10:58:12 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[14-Oct-2016 10:58:12 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[14-Oct-2016 10:58:12 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[14-Oct-2016 10:58:12 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[14-Oct-2016 10:58:12 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[14-Oct-2016 10:58:12 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[14-Oct-2016 10:58:12 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[14-Oct-2016 11:04:50 America/Bogota] PHP Warning:  mysql_connect(): No such file or directory in /home/comeycom/public_html/pt/connectDB.php on line 9
+[14-Oct-2016 11:04:55 America/Bogota] PHP Warning:  mysql_connect(): No such file or directory in /home/comeycom/public_html/pt/connectDB.php on line 9
+[14-Oct-2016 13:37:40 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[17-Oct-2016 15:40:06 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[17-Oct-2016 15:40:06 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[18-Oct-2016 16:18:08 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[18-Oct-2016 16:18:08 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[18-Oct-2016 17:35:09 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[18-Oct-2016 17:35:09 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[18-Oct-2016 17:40:57 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[18-Oct-2016 17:40:57 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[19-Oct-2016 12:58:49 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[19-Oct-2016 12:58:49 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[19-Oct-2016 13:02:13 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[19-Oct-2016 13:02:13 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[19-Oct-2016 16:17:25 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[19-Oct-2016 16:17:25 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[19-Oct-2016 18:23:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 101
+[19-Oct-2016 18:23:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 106
+[19-Oct-2016 21:45:31 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 287
+[19-Oct-2016 21:45:31 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 295
+[21-Oct-2016 15:01:18 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[21-Oct-2016 15:01:18 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[21-Oct-2016 15:03:44 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[21-Oct-2016 15:03:44 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[21-Oct-2016 15:09:09 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[21-Oct-2016 15:09:09 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[25-Oct-2016 10:40:10 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[25-Oct-2016 10:40:10 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[25-Oct-2016 10:41:01 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[25-Oct-2016 10:41:01 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[25-Oct-2016 10:41:57 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[25-Oct-2016 10:41:57 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[25-Oct-2016 10:43:19 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[25-Oct-2016 10:43:19 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[25-Oct-2016 10:58:32 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[25-Oct-2016 10:58:32 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[25-Oct-2016 10:58:32 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[25-Oct-2016 10:59:06 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[25-Oct-2016 10:59:06 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[25-Oct-2016 11:14:29 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[25-Oct-2016 11:14:29 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[27-Oct-2016 14:11:36 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[27-Oct-2016 17:19:24 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[27-Oct-2016 18:00:41 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[27-Oct-2016 18:03:54 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[27-Oct-2016 18:50:42 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[27-Oct-2016 18:50:42 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[27-Oct-2016 19:02:22 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[27-Oct-2016 19:04:25 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[27-Oct-2016 19:05:03 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[28-Oct-2016 15:07:01 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[28-Oct-2016 15:07:01 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[28-Oct-2016 15:24:56 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[28-Oct-2016 15:25:35 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[28-Oct-2016 15:35:22 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[28-Oct-2016 15:35:22 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[28-Oct-2016 15:36:55 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[28-Oct-2016 15:36:55 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[28-Oct-2016 15:40:46 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[28-Oct-2016 15:40:46 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[28-Oct-2016 15:45:36 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[28-Oct-2016 15:53:13 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[28-Oct-2016 15:53:13 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[31-Oct-2016 16:43:39 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[31-Oct-2016 16:45:43 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[31-Oct-2016 16:46:04 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[31-Oct-2016 16:52:50 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[31-Oct-2016 16:52:50 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[31-Oct-2016 16:58:02 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[31-Oct-2016 16:59:45 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[31-Oct-2016 17:00:37 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[31-Oct-2016 17:07:28 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[31-Oct-2016 17:14:21 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 09:09:36 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 11:04:18 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 11:06:10 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 11:10:42 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 11:10:42 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 11:11:08 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 11:11:29 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 11:14:55 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 11:14:56 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 11:14:56 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 12:24:05 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 12:24:05 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 12:24:05 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 12:24:05 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 12:24:05 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 12:24:15 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 12:24:15 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 12:24:15 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 12:24:15 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 12:24:15 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 16:36:31 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 16:41:19 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 17:55:37 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 18:15:25 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 18:22:31 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 18:31:09 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 18:46:04 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[01-Nov-2016 18:57:56 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[02-Nov-2016 08:51:51 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[02-Nov-2016 08:58:29 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[02-Nov-2016 09:12:01 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[02-Nov-2016 09:12:21 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[02-Nov-2016 09:12:39 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[02-Nov-2016 09:12:54 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[02-Nov-2016 09:13:27 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[02-Nov-2016 09:15:01 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[02-Nov-2016 09:15:11 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[02-Nov-2016 11:21:03 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[02-Nov-2016 15:05:26 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[02-Nov-2016 15:15:07 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[02-Nov-2016 15:15:52 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 218
+[02-Nov-2016 15:16:11 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 218
+[02-Nov-2016 15:16:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/reportes-backoffice/tablaf_json.php on line 218
+[03-Nov-2016 19:41:00 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Nov-2016 11:32:23 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Nov-2016 11:32:50 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Nov-2016 11:34:25 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Nov-2016 11:55:04 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Nov-2016 12:02:49 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Nov-2016 12:04:57 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Nov-2016 12:05:27 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Nov-2016 12:10:26 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Nov-2016 12:12:08 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Nov-2016 12:18:06 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Nov-2016 12:24:58 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Nov-2016 12:25:09 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Nov-2016 14:27:06 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Nov-2016 14:27:06 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Nov-2016 14:27:06 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Nov-2016 14:27:06 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Nov-2016 17:34:14 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Nov-2016 17:57:15 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Nov-2016 17:57:15 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Nov-2016 17:57:15 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Nov-2016 17:57:15 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[04-Nov-2016 17:57:15 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[07-Nov-2016 15:18:35 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[07-Nov-2016 15:18:35 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[07-Nov-2016 15:18:35 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[07-Nov-2016 15:18:35 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[07-Nov-2016 15:18:35 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[07-Nov-2016 15:18:35 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[07-Nov-2016 17:51:52 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303
+[07-Nov-2016 17:53:27 America/Mexico_City] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/reportes-backoffice/cuartiles_json.php on line 303

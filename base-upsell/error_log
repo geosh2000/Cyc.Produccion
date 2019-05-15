@@ -1,0 +1,4 @@
+[03-Nov-2016 17:35:02 America/Bogota] PHP Fatal error:  Call to undefined method mysqli_result::bind_result() in /home/comeycom/public_html/pt/base-upsell/query_graph.php on line 89
+[03-Nov-2016 17:35:41 America/Bogota] PHP Fatal error:  Call to undefined method mysqli_result::fetch() in /home/comeycom/public_html/pt/base-upsell/query_graph.php on line 89
+[03-Nov-2016 17:35:49 America/Bogota] PHP Fatal error:  Call to undefined method mysqli_result::fetch() in /home/comeycom/public_html/pt/base-upsell/query_graph.php on line 89
+[03-Nov-2016 17:36:03 America/Bogota] PHP Fatal error:  Call to undefined method mysqli_result::fetch() in /home/comeycom/public_html/pt/base-upsell/query_graph.php on line 89

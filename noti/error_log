@@ -1,0 +1,2 @@
+[01-Nov-2016 12:32:21 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[01-Nov-2016 12:32:46 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9

@@ -1,0 +1,438 @@
+[14-Oct-2016 15:19:21 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 225 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[14-Oct-2016 15:19:36 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 210 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[14-Oct-2016 16:11:40 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/comeycom/public_html/pt/common/add_exception.php on line 9
+[14-Oct-2016 16:11:53 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/comeycom/public_html/pt/common/add_exception.php on line 9
+[14-Oct-2016 16:25:11 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/comeycom/public_html/pt/common/add_exception.php on line 9
+[14-Oct-2016 16:26:50 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/comeycom/public_html/pt/common/add_exception.php on line 9
+[14-Oct-2016 16:30:58 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/comeycom/public_html/pt/common/add_exception.php on line 9
+[14-Oct-2016 16:31:01 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/comeycom/public_html/pt/common/add_exception.php on line 9
+[14-Oct-2016 16:31:17 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/comeycom/public_html/pt/common/add_exception.php on line 9
+[14-Oct-2016 17:24:39 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/comeycom/public_html/pt/common/add_exception.php on line 9
+[14-Oct-2016 17:25:02 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/comeycom/public_html/pt/common/add_exception.php on line 9
+[14-Oct-2016 17:26:24 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 245 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[14-Oct-2016 17:38:06 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 42 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[14-Oct-2016 17:38:20 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 66 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[14-Oct-2016 18:15:13 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 32 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[14-Oct-2016 21:22:25 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 126 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[15-Oct-2016 09:43:32 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 245 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[15-Oct-2016 09:45:34 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 231 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[15-Oct-2016 19:26:50 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 560 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[15-Oct-2016 19:27:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 35 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[15-Oct-2016 21:23:26 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 3 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[16-Oct-2016 14:35:23 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 3330 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[16-Oct-2016 16:02:54 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 35 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[16-Oct-2016 16:03:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 525 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[16-Oct-2016 16:05:33 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 525 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[16-Oct-2016 16:19:48 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 105 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[16-Oct-2016 16:21:54 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 245 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[16-Oct-2016 19:15:31 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 35 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[16-Oct-2016 19:15:32 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 35 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[16-Oct-2016 19:15:36 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 35 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[16-Oct-2016 19:15:48 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 35 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[16-Oct-2016 20:44:49 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 35 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[16-Oct-2016 21:18:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 33 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[17-Oct-2016 08:40:11 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 33 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[17-Oct-2016 09:17:08 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 35 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[17-Oct-2016 09:25:54 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 96 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[17-Oct-2016 09:27:19 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 96 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[17-Oct-2016 09:43:50 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 16 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[17-Oct-2016 09:46:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 180 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[17-Oct-2016 09:48:18 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 16 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[17-Oct-2016 09:58:47 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 105 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[17-Oct-2016 10:09:37 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 495 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[17-Oct-2016 10:20:16 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 495 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[17-Oct-2016 10:45:39 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 16 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[17-Oct-2016 10:46:31 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 16 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 333
+[17-Oct-2016 11:30:43 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 102 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 12:12:26 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 36 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 12:21:46 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 35 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 12:31:11 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 8 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 13:14:48 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 93 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 13:28:00 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 495 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 13:30:37 America/Mexico_City] PHP Warning:  mysql_result() expects parameter 1 to be resource, null given in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 176
+[17-Oct-2016 14:00:32 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 320 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 14:04:22 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 102 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 14:04:33 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 320 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 14:25:56 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 225 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 15:27:44 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 20 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 15:58:34 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 3564 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 15:59:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 1620 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 16:07:03 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 1635 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 16:10:42 America/Mexico_City] PHP Fatal error:  Function name must be a string in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 187
+[17-Oct-2016 16:10:45 America/Mexico_City] PHP Fatal error:  Function name must be a string in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 187
+[17-Oct-2016 16:11:53 America/Mexico_City] PHP Fatal error:  Function name must be a string in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 188
+[17-Oct-2016 16:11:59 America/Mexico_City] PHP Fatal error:  Function name must be a string in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 188
+[17-Oct-2016 16:12:08 America/Mexico_City] PHP Fatal error:  Function name must be a string in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 188
+[17-Oct-2016 16:12:11 America/Mexico_City] PHP Fatal error:  Function name must be a string in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 188
+[17-Oct-2016 16:12:47 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 693 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 16:59:23 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 32 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 17:06:13 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 560 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 17:31:27 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 36 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 17:31:39 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 14 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 17:31:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 40 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 17:32:32 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 70 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 17:34:12 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 30 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 17:34:15 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 24 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 17:44:27 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 32 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 17:44:35 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 66 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 17:44:42 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 42 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 17:45:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 40 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 17:46:07 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 70 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 17:57:40 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 495 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 18:13:58 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 70 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 18:22:07 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 32 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 18:27:30 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 66 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 18:39:33 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 42 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 18:51:14 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 36 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 18:51:23 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 102 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[17-Oct-2016 19:00:03 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 70 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[18-Oct-2016 09:45:16 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 231 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[18-Oct-2016 10:28:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 360 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[18-Oct-2016 10:45:18 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (2016-10-02 109:03:00 America/Mexico_City) at position 11 (1): Unexpected character' in /home/comeycom/public_html/pt/asistencia/indexnew.php:365
+Stack trace:
+#0 /home/comeycom/public_html/pt/asistencia/indexnew.php(365): DateTime->__construct('2016-10-02 109:...')
+#1 {main}
+  thrown in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 365
+[18-Oct-2016 11:18:19 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 245 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[18-Oct-2016 12:12:10 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 527
+[18-Oct-2016 12:39:21 America/Mexico_City] PHP Fatal error:  Call to undefined function printoptions() in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 579
+[18-Oct-2016 12:39:54 America/Mexico_City] PHP Fatal error:  Call to undefined function printoptions() in /home/comeycom/public_html/pt/asistencia/indexnew.php on line 580
+[18-Oct-2016 12:40:07 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 119 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[18-Oct-2016 12:49:41 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 119 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[18-Oct-2016 12:49:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 119 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[18-Oct-2016 12:57:23 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 495 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[18-Oct-2016 12:57:51 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 255 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[18-Oct-2016 13:27:27 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 15 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[18-Oct-2016 13:27:49 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 20 on MySQL result index 26 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[18-Oct-2016 13:27:50 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 20 on MySQL result index 24 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[18-Oct-2016 13:56:10 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 147 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[18-Oct-2016 15:03:22 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 255 on MySQL result index 25 in /home/comeycom/public_html/pt/asistencia/index.php on line 327
+[20-Oct-2016 09:02:35 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (2016-10-02 109:03:00 America/Mexico_City) at position 11 (1): Unexpected character' in /home/comeycom/public_html/pt/asistencia/index.php:488
+Stack trace:
+#0 /home/comeycom/public_html/pt/asistencia/index.php(488): DateTime->__construct('2016-10-02 109:...')
+#1 {main}
+  thrown in /home/comeycom/public_html/pt/asistencia/index.php on line 488
+[20-Oct-2016 10:18:21 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (2016-10-02 109:03:00 America/Mexico_City) at position 11 (1): Unexpected character' in /home/comeycom/public_html/pt/asistencia/index.php:488
+Stack trace:
+#0 /home/comeycom/public_html/pt/asistencia/index.php(488): DateTime->__construct('2016-10-02 109:...')
+#1 {main}
+  thrown in /home/comeycom/public_html/pt/asistencia/index.php on line 488
+[28-Oct-2016 19:16:06 America/Bogota] PHP Fatal error:  Call to undefined function query() in /home/comeycom/public_html/pt/asistencia/saveHorarios.php on line 9
+[28-Oct-2016 19:16:06 America/Bogota] PHP Fatal error:  Call to undefined function query() in /home/comeycom/public_html/pt/asistencia/saveHorarios.php on line 9
+[28-Oct-2016 19:16:06 America/Bogota] PHP Fatal error:  Call to undefined function query() in /home/comeycom/public_html/pt/asistencia/saveHorarios.php on line 9
+[28-Oct-2016 19:16:06 America/Bogota] PHP Fatal error:  Call to undefined function query() in /home/comeycom/public_html/pt/asistencia/saveHorarios.php on line 9
+[28-Oct-2016 19:16:06 America/Bogota] PHP Fatal error:  Call to undefined function query() in /home/comeycom/public_html/pt/asistencia/saveHorarios.php on line 9
+[28-Oct-2016 19:16:06 America/Bogota] PHP Fatal error:  Call to undefined function query() in /home/comeycom/public_html/pt/asistencia/saveHorarios.php on line 9
+[28-Oct-2016 19:16:06 America/Bogota] PHP Fatal error:  Call to undefined function query() in /home/comeycom/public_html/pt/asistencia/saveHorarios.php on line 9
+[28-Oct-2016 19:16:06 America/Bogota] PHP Fatal error:  Call to undefined function query() in /home/comeycom/public_html/pt/asistencia/saveHorarios.php on line 9
+[28-Oct-2016 19:16:06 America/Bogota] PHP Fatal error:  Call to undefined function query() in /home/comeycom/public_html/pt/asistencia/saveHorarios.php on line 9
+[28-Oct-2016 19:16:06 America/Bogota] PHP Fatal error:  Call to undefined function query() in /home/comeycom/public_html/pt/asistencia/saveHorarios.php on line 9
+[28-Oct-2016 19:16:06 America/Bogota] PHP Fatal error:  Call to undefined function query() in /home/comeycom/public_html/pt/asistencia/saveHorarios.php on line 9
+[28-Oct-2016 19:16:06 America/Bogota] PHP Fatal error:  Call to undefined function query() in /home/comeycom/public_html/pt/asistencia/saveHorarios.php on line 9
+[28-Oct-2016 19:16:06 America/Bogota] PHP Fatal error:  Call to undefined function query() in /home/comeycom/public_html/pt/asistencia/saveHorarios.php on line 9
+[28-Oct-2016 19:16:06 America/Bogota] PHP Fatal error:  Call to undefined function query() in /home/comeycom/public_html/pt/asistencia/saveHorarios.php on line 9
+[28-Oct-2016 19:16:06 America/Bogota] PHP Fatal error:  Call to undefined function query() in /home/comeycom/public_html/pt/asistencia/saveHorarios.php on line 9
+[31-Oct-2016 18:51:03 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (2016-09-16 109:03:00 America/Mexico_City) at position 11 (1): Unexpected character' in /home/comeycom/public_html/pt/asistencia/index.php:492
+Stack trace:
+#0 /home/comeycom/public_html/pt/asistencia/index.php(492): DateTime->__construct('2016-09-16 109:...')
+#1 {main}
+  thrown in /home/comeycom/public_html/pt/asistencia/index.php on line 492
+[01-Nov-2016 15:37:51 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (2016-09-12 109:03:00 America/Mexico_City) at position 11 (1): Unexpected character' in /home/comeycom/public_html/pt/asistencia/index.php:492
+Stack trace:
+#0 /home/comeycom/public_html/pt/asistencia/index.php(492): DateTime->__construct('2016-09-12 109:...')
+#1 {main}
+  thrown in /home/comeycom/public_html/pt/asistencia/index.php on line 492
+[01-Nov-2016 15:38:18 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (2016-09-16 109:03:00 America/Mexico_City) at position 11 (1): Unexpected character' in /home/comeycom/public_html/pt/asistencia/index.php:492
+Stack trace:
+#0 /home/comeycom/public_html/pt/asistencia/index.php(492): DateTime->__construct('2016-09-16 109:...')
+#1 {main}
+  thrown in /home/comeycom/public_html/pt/asistencia/index.php on line 492
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[03-Nov-2016 17:21:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asistencia/index_editable.php on line 540
+[04-Nov-2016 11:17:36 America/Mexico_City] PHP Parse error:  syntax error, unexpected '/' in /home/comeycom/public_html/pt/asistencia/index.php on line 500
+[06-Nov-2016 20:29:34 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (2016-10-02 109:03:00 America/Mexico_City) at position 11 (1): Unexpected character' in /home/comeycom/public_html/pt/asistencia/index.php:493
+Stack trace:
+#0 /home/comeycom/public_html/pt/asistencia/index.php(493): DateTime->__construct('2016-10-02 109:...')
+#1 {main}
+  thrown in /home/comeycom/public_html/pt/asistencia/index.php on line 493

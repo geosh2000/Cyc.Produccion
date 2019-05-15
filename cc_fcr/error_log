@@ -1,0 +1,7 @@
+[14-Oct-2016 11:09:43 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home/comeycom/public_html/pt/connectDB.php on line 9
+[14-Oct-2016 12:43:59 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home/comeycom/public_html/pt/connectDB.php on line 9
+[15-Oct-2016 00:58:13 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home/comeycom/public_html/pt/connectDB.php on line 9
+[27-Oct-2016 12:14:47 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[27-Oct-2016 12:17:07 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[03-Nov-2016 11:02:59 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:03:49 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21

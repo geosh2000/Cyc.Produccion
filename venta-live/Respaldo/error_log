@@ -1,0 +1,123 @@
+[20-Oct-2016 11:16:11 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 18
+[20-Oct-2016 11:18:47 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[20-Oct-2016 11:18:47 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[20-Oct-2016 11:18:47 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[20-Oct-2016 11:18:48 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[20-Oct-2016 11:18:48 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 18
+[20-Oct-2016 11:18:55 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[20-Oct-2016 11:19:10 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[20-Oct-2016 11:20:00 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 18
+[20-Oct-2016 11:20:16 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 18
+[20-Oct-2016 11:21:07 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[20-Oct-2016 11:21:11 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[20-Oct-2016 11:21:14 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[20-Oct-2016 11:21:30 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 18
+[20-Oct-2016 11:38:29 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[20-Oct-2016 11:38:29 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[20-Oct-2016 11:38:30 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[21-Oct-2016 20:51:42 America/Mexico_City] PHP Warning:  mysqli::query(): MySQL server has gone away in /home/comeycom/public_html/pt/common/login.php on line 73
+[21-Oct-2016 20:51:42 America/Mexico_City] PHP Warning:  mysqli::query(): Error reading result set's header in /home/comeycom/public_html/pt/common/login.php on line 73
+[27-Oct-2016 12:14:37 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[27-Oct-2016 12:57:27 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[29-Oct-2016 18:32:39 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/common/scripts.php:36) in /home/comeycom/public_html/pt/venta-live/ventahora.php on line 14
+[31-Oct-2016 17:31:58 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/common/scripts.php:28) in /home/comeycom/public_html/pt/venta-live/ventahora.php on line 14
+[01-Nov-2016 09:06:45 America/Bogota] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (2016-11-01 2016-11-01 08:04:07 America/Mexico_City) at position 11 (2): Double date specification' in /home/comeycom/public_html/pt/venta-live/_query_venta_v2.php:682
+Stack trace:
+#0 /home/comeycom/public_html/pt/venta-live/_query_venta_v2.php(682): DateTime->__construct('2016-11-01 2016...')
+#1 {main}
+  thrown in /home/comeycom/public_html/pt/venta-live/_query_venta_v2.php on line 682
+[01-Nov-2016 09:06:48 America/Bogota] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (2016-11-01 2016-11-01 08:04:07 America/Mexico_City) at position 11 (2): Double date specification' in /home/comeycom/public_html/pt/venta-live/_query_venta_v2.php:682
+Stack trace:
+#0 /home/comeycom/public_html/pt/venta-live/_query_venta_v2.php(682): DateTime->__construct('2016-11-01 2016...')
+#1 {main}
+  thrown in /home/comeycom/public_html/pt/venta-live/_query_venta_v2.php on line 682
+[01-Nov-2016 09:07:10 America/Bogota] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (2016-11-01 2016-11-01 08:04:07 America/Mexico_City) at position 11 (2): Double date specification' in /home/comeycom/public_html/pt/venta-live/_query_venta_v2.php:682
+Stack trace:
+#0 /home/comeycom/public_html/pt/venta-live/_query_venta_v2.php(682): DateTime->__construct('2016-11-01 2016...')
+#1 {main}
+  thrown in /home/comeycom/public_html/pt/venta-live/_query_venta_v2.php on line 682
+[01-Nov-2016 09:07:11 America/Bogota] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (2016-11-01 2016-11-01 08:04:07 America/Mexico_City) at position 11 (2): Double date specification' in /home/comeycom/public_html/pt/venta-live/_query_venta_v2.php:682
+Stack trace:
+#0 /home/comeycom/public_html/pt/venta-live/_query_venta_v2.php(682): DateTime->__construct('2016-11-01 2016...')
+#1 {main}
+  thrown in /home/comeycom/public_html/pt/venta-live/_query_venta_v2.php on line 682
+[01-Nov-2016 12:32:39 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 18
+[01-Nov-2016 12:32:42 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[01-Nov-2016 12:32:55 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[01-Nov-2016 12:33:08 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[01-Nov-2016 12:33:17 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 18
+[01-Nov-2016 12:33:25 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 18
+[03-Nov-2016 07:58:11 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/common/scripts.php:28) in /home/comeycom/public_html/pt/venta-live/ventahora.php on line 14
+[03-Nov-2016 10:45:38 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[03-Nov-2016 10:53:44 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:53:57 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:54:01 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:54:01 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:54:16 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:54:44 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:54:57 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:55:01 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:55:01 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:55:16 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:55:44 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:55:58 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:56:01 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:56:02 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:56:16 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:56:44 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:56:57 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:57:01 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:57:01 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:57:16 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:57:44 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:57:57 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:58:01 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:58:05 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:58:16 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:58:44 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:58:57 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:59:01 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:59:02 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:59:16 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:59:44 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:59:57 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:00:01 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:00:05 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:00:16 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:00:44 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:00:57 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:01:01 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:01:01 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:01:16 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:01:44 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:01:57 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:02:01 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:02:02 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:02:16 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:02:44 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:02:57 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:03:01 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:03:01 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:03:16 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:03:44 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[05-Nov-2016 15:58:23 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/common/scripts.php:28) in /home/comeycom/public_html/pt/venta-live/ventahora.php on line 14
+[07-Nov-2016 14:12:53 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[07-Nov-2016 14:12:57 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[07-Nov-2016 14:13:09 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[07-Nov-2016 14:17:03 America/Mexico_City] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/comeycom/public_html/pt/connectDB.php:21
+Stack trace:
+#0 /home/comeycom/public_html/pt/connectDB.php(21): PDO->__construct('mysql:host=67.2...', 'comeycom_wfm', 'pricetravel2015')
+#1 /home/comeycom/public_html/pt/venta-live/_query_venta_v2.php(2): include('/home/comeycom/...')
+#2 {main}
+  thrown in /home/comeycom/public_html/pt/connectDB.php on line 21
+[07-Nov-2016 14:17:54 America/Mexico_City] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/comeycom/public_html/pt/connectDB.php:21
+Stack trace:
+#0 /home/comeycom/public_html/pt/connectDB.php(21): PDO->__construct('mysql:host=67.2...', 'comeycom_wfm', 'pricetravel2015')
+#1 /home/comeycom/public_html/pt/venta-live/_query_venta_v2.php(2): include('/home/comeycom/...')
+#2 {main}
+  thrown in /home/comeycom/public_html/pt/connectDB.php on line 21
+[07-Nov-2016 14:17:59 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[07-Nov-2016 14:18:01 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[07-Nov-2016 14:21:34 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[07-Nov-2016 14:24:43 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[07-Nov-2016 19:49:18 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home/comeycom/public_html/pt/connectDB.php on line 9

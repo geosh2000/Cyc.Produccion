@@ -1,0 +1,85 @@
+#flight, .active, #calroot {
+    -moz-border-radius:4px;
+}
+
+#flight {
+    font-family:sans-serif;
+    background:#333 url(http://comeycome.com/pt/styles/h80.png);
+    height:56px;
+    padding:1px 0px 12px 30px;
+    color:#ddd;
+    font-size:11px;
+    width:350;
+    margin:0 auto;
+    -moz-box-shadow:0 0 10px #666;
+    -webkit-box-shadow:0 0 10px #666;
+}
+
+#flight label {
+    float:left;
+    width:210px;
+    display:block;
+    padding:0px;
+    border:1px solid transparent;
+    margin-right:0px;
+}
+
+#flight Dlabel {
+    float:left;
+    width:5px;
+    display:block;
+    padding:10px;
+    border:1px solid transparent;
+    margin-right:30px;
+}
+
+#flight Slabel {
+    float:left;
+    width:5px;
+    display:block;
+    padding:5px;
+    border:1px solid transparent;
+    margin-right:0px;
+}
+
+
+#flight .active {
+    background-color:#fff;
+    color:#333;
+    border:1px solid #ccc;
+    border-bottom:0;
+}
+
+.active input {
+    color:#333;
+    text-shadow:none;
+}
+
+/* date input */
+.date {
+    float:left;
+    display:block;
+    border:0;
+    background-color:transparent;
+    font-size:18px;
+    color:#fff;
+    text-shadow:0 0 1px #000;
+    width:180px;
+    cursor:pointer;
+}
+
+/* date input trigger element */
+.caltrigger {
+    display:block;
+    width:30px;
+    height:32px;
+    float:left;
+    background:url(http://comeycome.com/pt/styles/icon.jpg) no-repeat 0 0;
+    margin-top:-8px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+}
+
+.active .caltrigger {
+    background-position: 0 -32px;
+}

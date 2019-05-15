@@ -1,0 +1,210 @@
+[14-Oct-2016 14:44:24 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 81
+[14-Oct-2016 14:44:35 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/comeycom/public_html/pt/ausentismos/index.php on line 23
+[14-Oct-2016 14:44:35 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 161 in /home/comeycom/public_html/pt/ausentismos/index.php on line 81
+[14-Oct-2016 22:36:33 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 81
+[14-Oct-2016 22:36:42 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/comeycom/public_html/pt/ausentismos/index.php on line 23
+[14-Oct-2016 22:36:42 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 162 in /home/comeycom/public_html/pt/ausentismos/index.php on line 81
+[16-Oct-2016 16:04:57 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 81
+[16-Oct-2016 16:05:06 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 15 in /home/comeycom/public_html/pt/ausentismos/index.php on line 23
+[16-Oct-2016 16:05:06 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 161 in /home/comeycom/public_html/pt/ausentismos/index.php on line 81
+[17-Oct-2016 11:40:11 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[17-Oct-2016 11:40:39 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[17-Oct-2016 13:36:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[17-Oct-2016 13:37:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 158 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[17-Oct-2016 14:00:54 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[17-Oct-2016 14:03:04 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[17-Oct-2016 16:20:21 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[17-Oct-2016 16:20:31 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 158 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[17-Oct-2016 18:47:32 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[17-Oct-2016 21:16:36 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[17-Oct-2016 21:16:44 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[18-Oct-2016 07:41:51 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[18-Oct-2016 07:42:03 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[18-Oct-2016 11:56:24 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[18-Oct-2016 11:58:06 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[18-Oct-2016 13:19:06 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[18-Oct-2016 13:19:29 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[18-Oct-2016 16:54:55 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[18-Oct-2016 16:55:01 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 158 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[18-Oct-2016 16:58:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[18-Oct-2016 16:59:04 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[18-Oct-2016 16:59:12 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 158 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[18-Oct-2016 21:35:51 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[18-Oct-2016 21:36:00 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 158 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[19-Oct-2016 11:45:51 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[19-Oct-2016 11:49:36 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[19-Oct-2016 11:51:33 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[19-Oct-2016 11:54:50 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[20-Oct-2016 13:29:35 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[20-Oct-2016 13:29:43 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 158 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[20-Oct-2016 13:29:54 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[20-Oct-2016 14:44:16 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[20-Oct-2016 14:44:28 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[20-Oct-2016 15:19:07 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[20-Oct-2016 15:19:11 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 158 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[20-Oct-2016 15:30:45 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[20-Oct-2016 15:30:54 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[21-Oct-2016 12:24:07 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[21-Oct-2016 12:24:27 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[21-Oct-2016 12:41:19 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[21-Oct-2016 12:44:15 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[21-Oct-2016 16:55:45 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[21-Oct-2016 16:56:17 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[23-Oct-2016 08:32:49 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[23-Oct-2016 08:58:27 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[23-Oct-2016 15:26:18 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[23-Oct-2016 15:26:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[24-Oct-2016 08:46:41 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[24-Oct-2016 08:47:11 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[24-Oct-2016 11:49:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[24-Oct-2016 11:49:22 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 158 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[24-Oct-2016 11:50:12 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[24-Oct-2016 11:50:17 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 158 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[24-Oct-2016 11:52:15 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[24-Oct-2016 11:52:23 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[24-Oct-2016 16:42:58 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[24-Oct-2016 16:43:33 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[24-Oct-2016 17:08:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[24-Oct-2016 17:09:01 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 158 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[24-Oct-2016 18:15:06 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[24-Oct-2016 18:15:15 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[24-Oct-2016 19:44:51 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[24-Oct-2016 19:44:57 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[24-Oct-2016 21:20:15 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[24-Oct-2016 21:29:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[24-Oct-2016 21:30:00 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[25-Oct-2016 07:07:50 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[25-Oct-2016 07:08:01 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[25-Oct-2016 09:28:45 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[25-Oct-2016 09:28:50 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 158 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[25-Oct-2016 12:54:10 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[25-Oct-2016 12:54:33 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[25-Oct-2016 17:41:30 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[25-Oct-2016 17:41:43 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[25-Oct-2016 21:16:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[25-Oct-2016 21:17:06 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[26-Oct-2016 11:52:14 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[26-Oct-2016 11:56:13 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[26-Oct-2016 11:56:22 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[26-Oct-2016 11:57:18 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[26-Oct-2016 11:57:26 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[26-Oct-2016 14:42:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[26-Oct-2016 14:43:06 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[26-Oct-2016 15:58:09 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[26-Oct-2016 18:43:21 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[26-Oct-2016 18:43:28 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 158 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[27-Oct-2016 11:30:19 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[27-Oct-2016 11:30:38 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[27-Oct-2016 11:49:15 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[27-Oct-2016 11:49:23 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[27-Oct-2016 12:19:23 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[27-Oct-2016 12:31:36 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[27-Oct-2016 16:31:56 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[27-Oct-2016 16:41:27 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[28-Oct-2016 08:42:04 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[28-Oct-2016 08:42:11 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 158 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[28-Oct-2016 11:14:16 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[28-Oct-2016 11:14:46 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[28-Oct-2016 16:23:48 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[28-Oct-2016 16:23:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 158 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[28-Oct-2016 16:36:18 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[28-Oct-2016 16:36:29 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 158 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[28-Oct-2016 17:29:15 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[28-Oct-2016 17:29:54 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[28-Oct-2016 18:47:43 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[28-Oct-2016 18:47:49 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[28-Oct-2016 21:02:12 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[31-Oct-2016 07:41:54 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[31-Oct-2016 07:42:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 158 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[31-Oct-2016 08:35:41 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[31-Oct-2016 08:36:19 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[31-Oct-2016 10:15:55 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[31-Oct-2016 10:17:35 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[31-Oct-2016 16:35:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[31-Oct-2016 16:36:58 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[31-Oct-2016 19:09:37 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[31-Oct-2016 19:11:21 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[31-Oct-2016 19:11:28 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[31-Oct-2016 19:11:58 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[31-Oct-2016 20:05:00 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[31-Oct-2016 20:05:29 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[31-Oct-2016 20:10:42 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[31-Oct-2016 20:10:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[31-Oct-2016 20:19:18 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[31-Oct-2016 20:19:24 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[31-Oct-2016 22:02:07 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[31-Oct-2016 22:02:25 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 158 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[31-Oct-2016 22:03:10 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[31-Oct-2016 22:03:18 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 158 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[01-Nov-2016 06:46:57 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[01-Nov-2016 06:47:08 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 158 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[01-Nov-2016 13:26:06 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[01-Nov-2016 13:26:24 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[01-Nov-2016 13:47:03 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[01-Nov-2016 13:47:43 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[01-Nov-2016 13:49:00 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[01-Nov-2016 13:49:11 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[02-Nov-2016 18:49:25 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[02-Nov-2016 18:49:32 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 158 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[02-Nov-2016 19:24:49 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 160 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[02-Nov-2016 19:24:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 159 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[03-Nov-2016 18:19:16 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 164 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[03-Nov-2016 18:19:43 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 164 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[04-Nov-2016 09:18:19 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 164 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[04-Nov-2016 09:18:27 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 162 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[04-Nov-2016 12:03:48 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 163 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[04-Nov-2016 12:04:12 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 163 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[04-Nov-2016 16:46:33 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 164 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[04-Nov-2016 16:47:33 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 162 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[04-Nov-2016 16:47:47 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 164 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[04-Nov-2016 17:30:33 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 163 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[04-Nov-2016 17:30:43 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 163 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[04-Nov-2016 20:01:00 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 163 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[04-Nov-2016 20:01:14 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 163 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[05-Nov-2016 09:29:45 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 164 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[05-Nov-2016 09:30:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 164 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[05-Nov-2016 20:47:35 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 164 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[05-Nov-2016 20:47:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 162 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[06-Nov-2016 17:39:29 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 164 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[06-Nov-2016 17:39:36 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 162 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[06-Nov-2016 17:39:50 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 164 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[07-Nov-2016 12:22:18 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 164 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[07-Nov-2016 12:22:27 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 163 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[07-Nov-2016 15:24:26 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 162 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[07-Nov-2016 15:28:27 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 164 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[07-Nov-2016 15:30:46 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 163 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[07-Nov-2016 15:35:35 America/Mexico_City] PHP Warning:  mysql_numrows() expects parameter 1 to be resource, boolean given in /home/comeycom/public_html/pt/ausentismos/index.php on line 594
+[07-Nov-2016 15:35:35 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/ausentismos/index.php on line 635
+[07-Nov-2016 15:35:40 America/Mexico_City] PHP Warning:  mysql_numrows() expects parameter 1 to be resource, boolean given in /home/comeycom/public_html/pt/ausentismos/index.php on line 594
+[07-Nov-2016 15:35:40 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/ausentismos/index.php on line 635
+[07-Nov-2016 15:35:56 America/Mexico_City] PHP Warning:  mysql_numrows() expects parameter 1 to be resource, boolean given in /home/comeycom/public_html/pt/ausentismos/index.php on line 594
+[07-Nov-2016 15:35:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/ausentismos/index.php on line 635
+[07-Nov-2016 15:36:02 America/Mexico_City] PHP Warning:  mysql_numrows() expects parameter 1 to be resource, boolean given in /home/comeycom/public_html/pt/ausentismos/index.php on line 594
+[07-Nov-2016 15:36:02 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/ausentismos/index.php on line 635
+[07-Nov-2016 15:36:09 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 163 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[07-Nov-2016 15:36:17 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 163 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[07-Nov-2016 15:58:40 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 164 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[07-Nov-2016 16:37:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 163 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[07-Nov-2016 16:38:27 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 163 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[07-Nov-2016 16:38:32 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 162 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[07-Nov-2016 16:38:35 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 162 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[07-Nov-2016 16:44:11 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 163 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[07-Nov-2016 16:44:23 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 162 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[07-Nov-2016 16:55:29 America/Mexico_City] PHP Warning:  include(../DBAsesores.php): failed to open stream: No such file or directory in /home/comeycom/public_html/pt/ausentismos/index.php on line 9
+[07-Nov-2016 16:55:29 America/Mexico_City] PHP Warning:  include(../DBAsesores.php): failed to open stream: No such file or directory in /home/comeycom/public_html/pt/ausentismos/index.php on line 9
+[07-Nov-2016 16:55:29 America/Mexico_City] PHP Warning:  include(): Failed opening '../DBAsesores.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/comeycom/public_html/pt/ausentismos/index.php on line 9
+[07-Nov-2016 16:55:29 America/Mexico_City] PHP Warning:  include(../DBPcrcs.php): failed to open stream: No such file or directory in /home/comeycom/public_html/pt/ausentismos/index.php on line 10
+[07-Nov-2016 16:55:29 America/Mexico_City] PHP Warning:  include(../DBPcrcs.php): failed to open stream: No such file or directory in /home/comeycom/public_html/pt/ausentismos/index.php on line 10
+[07-Nov-2016 16:55:29 America/Mexico_City] PHP Warning:  include(): Failed opening '../DBPcrcs.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/comeycom/public_html/pt/ausentismos/index.php on line 10
+[07-Nov-2016 16:55:52 America/Mexico_City] PHP Warning:  include(../DBAsesores.php): failed to open stream: No such file or directory in /home/comeycom/public_html/pt/ausentismos/index.php on line 9
+[07-Nov-2016 16:55:52 America/Mexico_City] PHP Warning:  include(../DBAsesores.php): failed to open stream: No such file or directory in /home/comeycom/public_html/pt/ausentismos/index.php on line 9
+[07-Nov-2016 16:55:52 America/Mexico_City] PHP Warning:  include(): Failed opening '../DBAsesores.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/comeycom/public_html/pt/ausentismos/index.php on line 9
+[07-Nov-2016 16:55:52 America/Mexico_City] PHP Warning:  include(../DBPcrcs.php): failed to open stream: No such file or directory in /home/comeycom/public_html/pt/ausentismos/index.php on line 10
+[07-Nov-2016 16:55:52 America/Mexico_City] PHP Warning:  include(../DBPcrcs.php): failed to open stream: No such file or directory in /home/comeycom/public_html/pt/ausentismos/index.php on line 10
+[07-Nov-2016 16:55:52 America/Mexico_City] PHP Warning:  include(): Failed opening '../DBPcrcs.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/comeycom/public_html/pt/ausentismos/index.php on line 10
+[07-Nov-2016 17:07:06 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 163 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[07-Nov-2016 17:07:17 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 164 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[07-Nov-2016 17:22:33 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 163 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[07-Nov-2016 17:22:40 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 162 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[07-Nov-2016 20:06:34 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 163 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87
+[07-Nov-2016 20:08:42 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 163 in /home/comeycom/public_html/pt/ausentismos/index.php on line 87

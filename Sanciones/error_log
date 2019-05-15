@@ -1,0 +1,784 @@
+[26-Aug-2016 15:40:12 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[26-Aug-2016 15:40:12 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[26-Aug-2016 15:40:12 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[26-Aug-2016 15:40:12 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[26-Aug-2016 15:40:12 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[26-Aug-2016 15:40:12 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[26-Aug-2016 15:40:12 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[26-Aug-2016 15:40:12 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[29-Aug-2016 11:10:39 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[29-Aug-2016 11:10:39 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[29-Aug-2016 11:10:39 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[29-Aug-2016 11:10:39 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[29-Aug-2016 11:10:39 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[29-Aug-2016 11:10:39 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[29-Aug-2016 11:10:39 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[29-Aug-2016 11:10:39 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[29-Aug-2016 11:15:33 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:15:36 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:15:45 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:15:47 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:15:48 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:15:49 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:15:50 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:15:51 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:15:52 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:15:53 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:15:53 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:15:55 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:16:07 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:16:16 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:16:18 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:16:19 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:16:19 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:16:20 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:16:21 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:16:21 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:16:37 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:16:46 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:16:59 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:17:01 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:17:03 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:17:04 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:17:05 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:17:06 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:17:07 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:17:08 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:17:09 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:17:11 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:17:12 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:17:13 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:17:15 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:17:16 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:17:18 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:17:21 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:17:22 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[29-Aug-2016 11:17:23 America/Bogota] PHP Fatal error:  Call to undefined function data() in /home/comeycom/public_html/pt/Sanciones/index.php on line 36
+[30-Aug-2016 15:53:24 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[30-Aug-2016 15:53:24 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[30-Aug-2016 15:53:24 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[30-Aug-2016 15:53:24 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[30-Aug-2016 15:53:24 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[30-Aug-2016 15:53:24 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[30-Aug-2016 15:53:24 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[30-Aug-2016 15:53:24 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[30-Aug-2016 18:34:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 339
+[30-Aug-2016 18:34:51 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 339
+[30-Aug-2016 18:36:48 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 338
+[30-Aug-2016 18:38:44 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 338
+[30-Aug-2016 18:42:24 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/comeycom/public_html/pt/Sanciones/index.php on line 359
+[30-Aug-2016 19:08:57 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 408
+[30-Aug-2016 19:08:57 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 421
+[31-Aug-2016 18:07:23 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 408
+[31-Aug-2016 18:07:23 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 421
+[01-Sep-2016 13:05:52 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 408
+[01-Sep-2016 13:05:52 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 421
+[01-Sep-2016 13:08:41 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 407
+[01-Sep-2016 13:08:41 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 420
+[01-Sep-2016 13:42:19 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[01-Sep-2016 13:42:19 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[01-Sep-2016 13:42:19 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[01-Sep-2016 13:42:19 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[01-Sep-2016 13:42:19 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[01-Sep-2016 13:42:19 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[01-Sep-2016 13:42:19 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[01-Sep-2016 13:42:19 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[01-Sep-2016 13:42:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 523
+[01-Sep-2016 13:42:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 536
+[01-Sep-2016 13:42:34 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 523
+[01-Sep-2016 13:42:34 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 536
+[01-Sep-2016 13:44:41 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 522
+[01-Sep-2016 13:44:41 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 535
+[01-Sep-2016 13:47:41 America/Mexico_City] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/comeycom/public_html/pt/Sanciones/update_table.php on line 21
+[01-Sep-2016 13:55:27 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 525
+[01-Sep-2016 13:55:27 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 538
+[01-Sep-2016 13:55:32 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 525
+[01-Sep-2016 13:55:32 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 538
+[01-Sep-2016 13:55:37 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 525
+[01-Sep-2016 13:55:37 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 538
+[01-Sep-2016 13:56:03 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 525
+[01-Sep-2016 13:56:03 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 538
+[01-Sep-2016 13:56:09 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 525
+[01-Sep-2016 13:56:09 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 538
+[01-Sep-2016 13:59:10 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 525
+[01-Sep-2016 13:59:10 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 538
+[01-Sep-2016 14:00:10 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 525
+[01-Sep-2016 14:00:10 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 538
+[01-Sep-2016 16:05:23 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 525
+[01-Sep-2016 16:05:23 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 538
+[01-Sep-2016 16:05:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 525
+[01-Sep-2016 16:05:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 538
+[01-Sep-2016 16:15:07 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[01-Sep-2016 16:15:09 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[01-Sep-2016 16:16:12 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[01-Sep-2016 16:16:27 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[01-Sep-2016 16:16:32 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[01-Sep-2016 16:16:44 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[01-Sep-2016 16:16:58 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[01-Sep-2016 16:18:25 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[01-Sep-2016 16:20:01 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[01-Sep-2016 17:48:00 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[01-Sep-2016 17:48:00 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 526
+[01-Sep-2016 17:48:00 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 539
+[02-Sep-2016 11:11:28 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[02-Sep-2016 11:11:28 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 526
+[02-Sep-2016 11:11:28 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 539
+[02-Sep-2016 11:31:50 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[02-Sep-2016 11:31:50 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 526
+[02-Sep-2016 11:31:50 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 539
+[02-Sep-2016 11:34:49 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[02-Sep-2016 11:34:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 526
+[02-Sep-2016 11:34:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 539
+[02-Sep-2016 12:12:57 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[02-Sep-2016 12:12:57 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[02-Sep-2016 12:12:57 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[02-Sep-2016 12:12:57 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[02-Sep-2016 12:12:57 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[02-Sep-2016 12:12:57 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[02-Sep-2016 12:12:57 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[02-Sep-2016 12:12:57 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[02-Sep-2016 12:13:06 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[02-Sep-2016 12:13:06 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 526
+[02-Sep-2016 12:13:06 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 539
+[02-Sep-2016 12:13:13 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[02-Sep-2016 12:13:13 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 526
+[02-Sep-2016 12:13:13 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 539
+[02-Sep-2016 12:55:44 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[02-Sep-2016 12:55:44 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 526
+[02-Sep-2016 12:55:44 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 539
+[02-Sep-2016 14:59:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[02-Sep-2016 14:59:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[02-Sep-2016 14:59:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[02-Sep-2016 14:59:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[02-Sep-2016 14:59:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[02-Sep-2016 14:59:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[02-Sep-2016 14:59:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[02-Sep-2016 14:59:02 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[02-Sep-2016 14:59:11 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[02-Sep-2016 14:59:11 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 526
+[02-Sep-2016 14:59:11 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 539
+[02-Sep-2016 15:00:36 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[02-Sep-2016 16:04:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[02-Sep-2016 16:04:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[02-Sep-2016 16:04:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[02-Sep-2016 16:04:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[02-Sep-2016 16:04:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[02-Sep-2016 16:04:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[02-Sep-2016 16:04:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[02-Sep-2016 16:04:53 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[02-Sep-2016 16:04:57 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[02-Sep-2016 16:04:57 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[02-Sep-2016 16:04:57 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[02-Sep-2016 16:05:54 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[02-Sep-2016 16:05:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[02-Sep-2016 16:05:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[05-Sep-2016 09:34:10 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[05-Sep-2016 09:34:10 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[05-Sep-2016 09:34:10 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[05-Sep-2016 09:34:10 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[05-Sep-2016 09:34:10 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[05-Sep-2016 09:34:10 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[05-Sep-2016 09:34:10 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[05-Sep-2016 09:34:10 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[05-Sep-2016 16:51:13 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[05-Sep-2016 16:51:13 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[05-Sep-2016 16:51:13 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[06-Sep-2016 15:53:46 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[06-Sep-2016 15:53:46 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[06-Sep-2016 15:53:46 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[06-Sep-2016 17:41:37 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[06-Sep-2016 17:41:37 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[06-Sep-2016 17:41:37 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[07-Sep-2016 19:01:29 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[07-Sep-2016 19:01:29 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[07-Sep-2016 19:01:29 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[07-Sep-2016 19:01:29 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[07-Sep-2016 19:01:29 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[07-Sep-2016 19:01:29 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[07-Sep-2016 19:01:29 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[07-Sep-2016 19:01:29 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[07-Sep-2016 19:01:31 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[07-Sep-2016 19:01:31 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[07-Sep-2016 19:01:31 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[08-Sep-2016 09:01:46 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[08-Sep-2016 09:01:46 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[08-Sep-2016 09:01:46 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[08-Sep-2016 09:02:04 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[08-Sep-2016 09:02:04 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[08-Sep-2016 09:02:04 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[12-Sep-2016 13:26:35 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[12-Sep-2016 13:26:35 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[12-Sep-2016 13:26:35 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[14-Sep-2016 13:01:00 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[14-Sep-2016 13:01:00 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[14-Sep-2016 13:01:00 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[14-Sep-2016 13:03:14 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[14-Sep-2016 14:41:18 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[14-Sep-2016 14:41:18 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[14-Sep-2016 14:41:18 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[14-Sep-2016 14:45:31 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[14-Sep-2016 14:45:31 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[14-Sep-2016 14:45:31 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[14-Sep-2016 14:45:36 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[14-Sep-2016 14:45:36 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[14-Sep-2016 14:45:36 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[14-Sep-2016 14:45:54 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[14-Sep-2016 14:54:58 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[14-Sep-2016 14:54:58 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[14-Sep-2016 14:54:58 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[14-Sep-2016 14:55:59 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[14-Sep-2016 14:55:59 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[14-Sep-2016 14:55:59 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[14-Sep-2016 15:15:06 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[14-Sep-2016 15:15:06 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[14-Sep-2016 15:15:06 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[14-Sep-2016 15:15:16 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[14-Sep-2016 15:15:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[14-Sep-2016 15:15:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[14-Sep-2016 15:15:22 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[14-Sep-2016 15:15:22 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[14-Sep-2016 15:15:22 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[14-Sep-2016 15:15:25 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[14-Sep-2016 15:15:25 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[14-Sep-2016 15:15:25 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[14-Sep-2016 15:15:28 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[14-Sep-2016 15:15:28 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[14-Sep-2016 15:15:28 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[14-Sep-2016 15:15:32 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[14-Sep-2016 15:15:32 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[14-Sep-2016 15:15:32 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[14-Sep-2016 15:15:37 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[14-Sep-2016 17:54:50 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[14-Sep-2016 17:54:50 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[14-Sep-2016 17:54:50 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[14-Sep-2016 17:57:30 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[14-Sep-2016 17:57:30 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[14-Sep-2016 17:57:30 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[14-Sep-2016 17:57:39 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[14-Sep-2016 17:57:39 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[14-Sep-2016 17:57:39 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[14-Sep-2016 17:57:45 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[14-Sep-2016 17:58:46 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[14-Sep-2016 22:01:33 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[14-Sep-2016 22:01:33 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[14-Sep-2016 22:01:33 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[15-Sep-2016 08:14:48 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[15-Sep-2016 08:14:48 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[15-Sep-2016 08:14:48 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[15-Sep-2016 08:15:24 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[15-Sep-2016 08:15:24 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[15-Sep-2016 08:15:24 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[15-Sep-2016 08:15:31 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[15-Sep-2016 08:16:47 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[15-Sep-2016 08:16:47 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[15-Sep-2016 08:16:47 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[15-Sep-2016 08:16:55 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[15-Sep-2016 14:19:19 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[15-Sep-2016 14:19:19 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[15-Sep-2016 14:19:19 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[15-Sep-2016 14:19:33 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[15-Sep-2016 14:19:34 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[15-Sep-2016 14:19:34 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[15-Sep-2016 14:19:39 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[15-Sep-2016 14:19:39 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[15-Sep-2016 14:19:39 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[15-Sep-2016 14:19:54 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[15-Sep-2016 14:19:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[15-Sep-2016 14:19:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[15-Sep-2016 14:20:10 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[15-Sep-2016 14:20:10 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[15-Sep-2016 14:20:10 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[15-Sep-2016 14:20:35 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[15-Sep-2016 14:20:35 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[15-Sep-2016 14:20:35 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[15-Sep-2016 14:20:41 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[15-Sep-2016 14:20:41 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[15-Sep-2016 14:20:41 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[15-Sep-2016 14:20:58 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[15-Sep-2016 14:24:01 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[15-Sep-2016 17:46:20 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[15-Sep-2016 17:46:20 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[15-Sep-2016 17:46:20 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[15-Sep-2016 17:46:32 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[15-Sep-2016 17:46:32 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[15-Sep-2016 17:46:32 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[15-Sep-2016 17:46:43 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[15-Sep-2016 17:50:09 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[15-Sep-2016 17:50:09 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[15-Sep-2016 17:50:09 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[15-Sep-2016 17:50:25 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[15-Sep-2016 17:52:06 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[17-Sep-2016 08:44:24 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[17-Sep-2016 08:44:24 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[17-Sep-2016 08:44:24 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[17-Sep-2016 08:44:34 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[17-Sep-2016 08:44:34 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[17-Sep-2016 08:44:34 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[17-Sep-2016 08:44:47 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[17-Sep-2016 08:44:57 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[17-Sep-2016 08:45:54 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[17-Sep-2016 08:45:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[17-Sep-2016 08:45:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[17-Sep-2016 08:45:59 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[17-Sep-2016 08:45:59 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[17-Sep-2016 08:45:59 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[17-Sep-2016 08:46:02 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[17-Sep-2016 08:46:02 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[17-Sep-2016 08:46:02 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[17-Sep-2016 08:46:07 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[17-Sep-2016 08:46:07 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[17-Sep-2016 08:46:07 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[17-Sep-2016 08:46:13 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[17-Sep-2016 08:46:13 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[17-Sep-2016 08:46:13 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[17-Sep-2016 08:46:17 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[17-Sep-2016 08:46:17 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[17-Sep-2016 08:46:17 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[19-Sep-2016 10:34:28 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[19-Sep-2016 10:34:28 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[19-Sep-2016 10:34:28 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[19-Sep-2016 10:41:10 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[19-Sep-2016 10:45:21 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[19-Sep-2016 10:45:48 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[19-Sep-2016 14:05:09 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[19-Sep-2016 14:05:09 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[19-Sep-2016 14:05:09 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[19-Sep-2016 14:05:13 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[19-Sep-2016 14:19:53 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[21-Sep-2016 09:48:02 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[21-Sep-2016 09:48:02 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[21-Sep-2016 09:48:02 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[25-Sep-2016 14:28:07 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[25-Sep-2016 14:28:07 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[25-Sep-2016 14:28:07 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[25-Sep-2016 14:28:17 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[25-Sep-2016 14:28:17 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[25-Sep-2016 14:28:17 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[25-Sep-2016 14:28:21 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[25-Sep-2016 14:28:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[25-Sep-2016 14:28:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[25-Sep-2016 14:29:45 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[25-Sep-2016 14:29:45 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[25-Sep-2016 14:29:45 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[25-Sep-2016 14:29:57 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[25-Sep-2016 14:35:03 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[25-Sep-2016 14:35:03 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[25-Sep-2016 14:35:03 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[25-Sep-2016 17:16:03 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[25-Sep-2016 17:16:03 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[25-Sep-2016 17:16:03 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[25-Sep-2016 17:16:34 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[25-Sep-2016 17:16:34 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[25-Sep-2016 17:16:34 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[25-Sep-2016 17:17:16 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[25-Sep-2016 17:17:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[25-Sep-2016 17:17:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[25-Sep-2016 17:17:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[25-Sep-2016 17:17:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[25-Sep-2016 17:17:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[25-Sep-2016 17:17:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[25-Sep-2016 17:17:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[25-Sep-2016 17:17:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[25-Sep-2016 17:17:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[25-Sep-2016 17:17:59 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[25-Sep-2016 17:18:14 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[25-Sep-2016 17:18:14 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[25-Sep-2016 17:18:14 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[25-Sep-2016 17:18:35 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[25-Sep-2016 17:18:35 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[25-Sep-2016 17:18:35 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[26-Sep-2016 13:16:15 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[26-Sep-2016 13:16:15 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[26-Sep-2016 13:16:15 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[26-Sep-2016 13:22:10 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[26-Sep-2016 13:22:10 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[26-Sep-2016 13:22:10 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[26-Sep-2016 13:22:49 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[26-Sep-2016 13:24:46 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[26-Sep-2016 13:25:01 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[26-Sep-2016 13:32:03 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[26-Sep-2016 16:14:41 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[26-Sep-2016 16:14:41 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[26-Sep-2016 16:14:41 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[27-Sep-2016 11:56:06 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[27-Sep-2016 11:56:06 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[27-Sep-2016 11:56:06 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[28-Sep-2016 15:26:03 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 15:26:04 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[28-Sep-2016 15:26:04 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[28-Sep-2016 18:49:27 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 18:49:27 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[28-Sep-2016 18:49:27 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[28-Sep-2016 19:23:31 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 19:29:51 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 19:41:39 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 19:57:08 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 19:59:25 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 19:59:25 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[28-Sep-2016 19:59:25 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[28-Sep-2016 19:59:46 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:05:24 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:07:16 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:07:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[28-Sep-2016 20:07:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[28-Sep-2016 20:07:29 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:08:26 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:14:48 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:14:53 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:18:37 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:20:18 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:20:30 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:21:46 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:22:07 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:22:07 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[28-Sep-2016 20:22:07 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[28-Sep-2016 20:23:49 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:26:22 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:26:36 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:28:20 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:30:05 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:32:08 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:33:25 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:34:24 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:34:46 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:36:43 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:37:02 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:37:12 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:37:23 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:38:52 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:39:43 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:50:07 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:50:07 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[28-Sep-2016 20:50:07 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[28-Sep-2016 20:50:32 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:57:46 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Sep-2016 20:58:17 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[29-Sep-2016 12:47:26 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[29-Sep-2016 12:47:26 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[29-Sep-2016 12:47:26 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[29-Sep-2016 12:47:38 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[29-Sep-2016 13:27:18 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[29-Sep-2016 13:27:18 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[29-Sep-2016 13:27:18 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[29-Sep-2016 16:11:53 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[29-Sep-2016 16:11:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[29-Sep-2016 16:11:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[29-Sep-2016 16:12:12 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[29-Sep-2016 16:12:33 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[30-Sep-2016 11:06:24 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[30-Sep-2016 11:06:24 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[30-Sep-2016 11:06:24 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[30-Sep-2016 11:07:22 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[30-Sep-2016 11:07:22 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[30-Sep-2016 11:07:22 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[30-Sep-2016 11:07:44 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[30-Sep-2016 11:07:44 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[30-Sep-2016 11:07:44 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[30-Sep-2016 16:03:34 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[30-Sep-2016 16:03:34 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[30-Sep-2016 16:03:34 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[30-Sep-2016 16:08:13 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[30-Sep-2016 16:08:33 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[03-Oct-2016 20:01:29 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[03-Oct-2016 20:01:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[03-Oct-2016 20:01:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[03-Oct-2016 20:20:42 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[03-Oct-2016 20:20:42 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[03-Oct-2016 20:20:42 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[03-Oct-2016 20:22:00 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[03-Oct-2016 20:22:00 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[03-Oct-2016 20:22:00 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[04-Oct-2016 08:43:00 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[04-Oct-2016 08:43:00 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[04-Oct-2016 08:43:00 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[05-Oct-2016 21:24:31 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[05-Oct-2016 21:24:31 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[05-Oct-2016 21:24:31 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[06-Oct-2016 07:40:21 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[06-Oct-2016 07:40:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[06-Oct-2016 07:40:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[06-Oct-2016 07:40:37 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[06-Oct-2016 07:40:54 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[06-Oct-2016 07:56:43 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[06-Oct-2016 07:56:53 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[06-Oct-2016 09:13:04 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[06-Oct-2016 11:23:43 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[06-Oct-2016 13:25:33 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[06-Oct-2016 13:25:33 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[06-Oct-2016 13:25:33 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[06-Oct-2016 14:33:45 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[06-Oct-2016 14:33:45 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[06-Oct-2016 14:33:45 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[06-Oct-2016 14:33:55 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[06-Oct-2016 14:34:12 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[06-Oct-2016 14:35:27 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[06-Oct-2016 14:35:27 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[06-Oct-2016 14:35:27 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[06-Oct-2016 14:36:16 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[06-Oct-2016 14:43:09 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[06-Oct-2016 17:38:50 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[06-Oct-2016 17:38:50 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[06-Oct-2016 17:38:50 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[07-Oct-2016 19:11:25 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[07-Oct-2016 19:11:25 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[07-Oct-2016 19:11:25 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[07-Oct-2016 19:11:35 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[07-Oct-2016 19:11:35 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[07-Oct-2016 19:11:35 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[07-Oct-2016 19:20:39 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[07-Oct-2016 19:20:39 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[07-Oct-2016 19:20:39 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[07-Oct-2016 19:20:51 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[07-Oct-2016 23:46:19 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[07-Oct-2016 23:46:19 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[07-Oct-2016 23:46:19 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[08-Oct-2016 16:56:16 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[08-Oct-2016 16:56:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[08-Oct-2016 16:56:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[10-Oct-2016 10:51:56 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[10-Oct-2016 10:51:56 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[10-Oct-2016 10:51:56 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[10-Oct-2016 19:19:15 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[10-Oct-2016 19:19:15 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[10-Oct-2016 19:19:15 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[11-Oct-2016 09:11:42 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 09:11:42 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[11-Oct-2016 09:11:42 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[11-Oct-2016 09:12:00 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 09:15:40 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 12:20:34 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 12:20:34 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[11-Oct-2016 12:20:35 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[11-Oct-2016 12:40:39 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 12:40:39 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[11-Oct-2016 12:40:39 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[11-Oct-2016 12:40:44 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 12:40:56 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 12:40:56 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[11-Oct-2016 12:40:56 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[11-Oct-2016 12:40:58 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 12:40:58 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[11-Oct-2016 12:40:58 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[11-Oct-2016 12:40:58 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 12:40:59 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[11-Oct-2016 12:40:59 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[11-Oct-2016 12:41:00 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 12:41:00 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[11-Oct-2016 12:41:00 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[11-Oct-2016 12:41:09 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 12:41:31 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 12:41:39 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 15:28:18 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 15:28:18 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[11-Oct-2016 15:28:18 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[11-Oct-2016 15:28:32 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 15:30:51 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 15:30:51 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[11-Oct-2016 15:30:51 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[11-Oct-2016 15:31:08 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 15:31:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[11-Oct-2016 15:31:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[11-Oct-2016 15:31:21 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 15:35:21 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 15:35:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[11-Oct-2016 15:35:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[11-Oct-2016 15:37:11 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 15:38:45 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 15:46:34 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 22:02:17 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 22:02:17 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[11-Oct-2016 22:02:18 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[11-Oct-2016 22:18:33 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 22:18:33 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[11-Oct-2016 22:18:33 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[11-Oct-2016 22:18:49 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[11-Oct-2016 22:19:13 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[12-Oct-2016 07:57:24 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[12-Oct-2016 07:57:24 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[12-Oct-2016 07:57:24 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[12-Oct-2016 07:57:34 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[12-Oct-2016 15:43:02 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[12-Oct-2016 15:43:03 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[12-Oct-2016 15:43:03 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[12-Oct-2016 19:38:41 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[12-Oct-2016 19:38:41 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[12-Oct-2016 19:38:41 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[12-Oct-2016 20:54:13 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[12-Oct-2016 20:54:13 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[12-Oct-2016 20:54:13 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[12-Oct-2016 21:38:44 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[12-Oct-2016 21:38:44 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[12-Oct-2016 21:38:44 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[17-Oct-2016 14:43:07 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[17-Oct-2016 14:43:07 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[17-Oct-2016 14:43:07 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[17-Oct-2016 14:43:23 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[17-Oct-2016 14:43:23 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[17-Oct-2016 14:43:23 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[17-Oct-2016 15:51:22 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[17-Oct-2016 15:51:22 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[17-Oct-2016 15:51:22 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[17-Oct-2016 16:27:47 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[17-Oct-2016 16:27:47 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[17-Oct-2016 16:27:47 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[17-Oct-2016 17:45:48 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[17-Oct-2016 17:45:48 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[17-Oct-2016 17:45:48 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[17-Oct-2016 17:45:54 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[17-Oct-2016 17:45:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[17-Oct-2016 17:45:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[17-Oct-2016 17:45:59 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[17-Oct-2016 17:45:59 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[17-Oct-2016 17:45:59 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[17-Oct-2016 17:46:03 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[17-Oct-2016 17:46:21 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[18-Oct-2016 13:49:21 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[18-Oct-2016 13:49:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[18-Oct-2016 13:49:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[18-Oct-2016 13:52:17 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[18-Oct-2016 13:52:32 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[18-Oct-2016 13:52:32 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[18-Oct-2016 13:52:32 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[18-Oct-2016 13:52:40 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[18-Oct-2016 13:52:40 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[18-Oct-2016 13:52:40 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[18-Oct-2016 14:08:33 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[18-Oct-2016 14:08:33 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[18-Oct-2016 14:08:33 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[19-Oct-2016 11:45:36 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[19-Oct-2016 11:45:36 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[19-Oct-2016 11:45:36 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[19-Oct-2016 11:48:24 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[19-Oct-2016 11:48:24 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[19-Oct-2016 11:48:24 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[20-Oct-2016 09:42:10 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[20-Oct-2016 09:42:10 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[20-Oct-2016 09:42:10 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[20-Oct-2016 09:42:39 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[20-Oct-2016 09:42:53 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[20-Oct-2016 09:44:08 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[20-Oct-2016 09:44:44 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[20-Oct-2016 09:44:44 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[20-Oct-2016 09:44:44 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[20-Oct-2016 09:45:12 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[20-Oct-2016 09:48:01 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[20-Oct-2016 09:49:09 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[20-Oct-2016 13:54:44 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[20-Oct-2016 13:54:44 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[20-Oct-2016 13:54:44 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[20-Oct-2016 13:56:12 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[20-Oct-2016 15:36:47 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[20-Oct-2016 15:36:47 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[20-Oct-2016 15:36:47 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[20-Oct-2016 15:38:53 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[20-Oct-2016 15:38:53 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[20-Oct-2016 15:38:53 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[20-Oct-2016 15:39:00 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[20-Oct-2016 18:06:20 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[20-Oct-2016 18:06:20 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[20-Oct-2016 18:06:20 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[20-Oct-2016 19:17:32 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[20-Oct-2016 19:17:32 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[20-Oct-2016 19:17:32 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[21-Oct-2016 08:10:34 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[21-Oct-2016 08:10:34 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[21-Oct-2016 08:10:34 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[21-Oct-2016 12:37:22 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[21-Oct-2016 12:37:22 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[21-Oct-2016 12:37:22 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[21-Oct-2016 13:04:49 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[21-Oct-2016 13:18:29 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[21-Oct-2016 13:18:44 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[21-Oct-2016 13:19:11 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[21-Oct-2016 15:26:54 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[21-Oct-2016 15:26:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[21-Oct-2016 15:26:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[21-Oct-2016 15:27:04 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[21-Oct-2016 15:31:38 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[24-Oct-2016 17:47:49 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[24-Oct-2016 17:47:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[24-Oct-2016 17:47:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[25-Oct-2016 12:32:31 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[25-Oct-2016 12:32:31 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[25-Oct-2016 12:32:31 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[25-Oct-2016 12:37:46 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[25-Oct-2016 15:41:06 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[25-Oct-2016 15:41:06 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[25-Oct-2016 15:41:06 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[25-Oct-2016 16:23:29 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[25-Oct-2016 16:23:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 528
+[25-Oct-2016 16:23:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 541
+[25-Oct-2016 16:23:36 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[25-Oct-2016 16:25:49 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[25-Oct-2016 17:58:27 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[25-Oct-2016 17:58:27 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 521
+[25-Oct-2016 17:58:27 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 534
+[25-Oct-2016 21:19:56 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[25-Oct-2016 21:19:56 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 521
+[25-Oct-2016 21:19:56 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 534
+[25-Oct-2016 21:30:55 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[25-Oct-2016 21:30:55 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 521
+[25-Oct-2016 21:30:55 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 534
+[25-Oct-2016 23:06:18 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[25-Oct-2016 23:06:18 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 521
+[25-Oct-2016 23:06:18 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 534
+[26-Oct-2016 08:08:17 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[26-Oct-2016 08:08:17 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 521
+[26-Oct-2016 08:08:17 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 534
+[26-Oct-2016 08:10:46 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[26-Oct-2016 11:03:20 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[26-Oct-2016 11:03:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 521
+[26-Oct-2016 11:03:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 534
+[26-Oct-2016 14:08:18 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[26-Oct-2016 14:08:19 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 521
+[26-Oct-2016 14:08:19 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 534
+[26-Oct-2016 20:21:21 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[26-Oct-2016 20:21:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 521
+[26-Oct-2016 20:21:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 534
+[28-Oct-2016 16:17:40 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[28-Oct-2016 16:17:40 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 521
+[28-Oct-2016 16:17:40 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 534
+[31-Oct-2016 10:21:28 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[31-Oct-2016 10:21:28 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 521
+[31-Oct-2016 10:21:28 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 534
+[31-Oct-2016 11:52:48 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[31-Oct-2016 11:52:48 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 521
+[31-Oct-2016 11:52:48 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 534
+[31-Oct-2016 11:52:54 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[31-Oct-2016 11:54:53 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[31-Oct-2016 11:54:53 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 521
+[31-Oct-2016 11:54:53 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 534
+[31-Oct-2016 11:55:13 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[31-Oct-2016 11:55:13 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 521
+[31-Oct-2016 11:55:13 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 534
+[31-Oct-2016 11:55:29 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[31-Oct-2016 11:55:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 521
+[31-Oct-2016 11:55:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 534
+[31-Oct-2016 11:55:41 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[31-Oct-2016 12:07:59 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[31-Oct-2016 12:56:01 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[31-Oct-2016 12:56:01 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 521
+[31-Oct-2016 12:56:01 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 534
+[31-Oct-2016 16:21:07 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[31-Oct-2016 16:21:07 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 521
+[31-Oct-2016 16:21:07 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 534
+[31-Oct-2016 16:34:09 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[01-Nov-2016 12:14:24 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[01-Nov-2016 12:14:24 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 521
+[01-Nov-2016 12:14:24 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 534
+[01-Nov-2016 17:34:37 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[01-Nov-2016 17:34:37 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 521
+[01-Nov-2016 17:34:37 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 534
+[01-Nov-2016 17:50:34 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[01-Nov-2016 17:50:34 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 521
+[01-Nov-2016 17:50:34 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 534
+[03-Nov-2016 14:00:57 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[03-Nov-2016 14:00:57 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 521
+[03-Nov-2016 14:00:57 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 534
+[04-Nov-2016 08:57:06 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[04-Nov-2016 08:57:06 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 521
+[04-Nov-2016 08:57:06 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 534
+[04-Nov-2016 08:57:31 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[07-Nov-2016 13:52:43 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/Sanciones/index.php:11) in /home/comeycom/public_html/pt/Sanciones/index.php on line 15
+[07-Nov-2016 13:52:43 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 521
+[07-Nov-2016 13:52:43 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/Sanciones/index.php on line 534

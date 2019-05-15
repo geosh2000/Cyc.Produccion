@@ -1,0 +1,13 @@
+<?php
+$username="comeycom";
+$password="dyj21278370";
+$database="comeycom_SLA";
+$localhost="67.225.221.130:3306";
+
+//Conectar a DB
+
+mysql_connect($localhost,$username,$password);
+$query="CREATE DATABASE `fsdfa` ";
+mysql_query($query);
+
+?>

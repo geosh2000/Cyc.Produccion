@@ -1,0 +1,41 @@
+.button {
+    background-color: #e7e7e7;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+width:100px;
+height:35px;
+}
+
+.buttonlarge {
+    background-color: #e7e7e7;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width:140px;
+    height:35px;
+}
+
+.button:hover, .buttonlarge:hover{
+    background-color: black;
+    color:whilte;
+}
+
+.button_blue_w {background-color: #008CBA; color: white;} /* Blue */
+.button_red_w {background-color: #f44336; color: white;} /* Red */
+.button_redpastel_w {background-color: #FF6666; color: white; } /* Red Pastel*/
+.button_white_r {background-color: white; color:red;  border: 2px solid #FF6666;} /* White */
+.button_black_w {background-color: #555555; color: white;} /* Black */
+.button_orange_w {background-color: #ffbf80; color: white;} /* orange */
+.button_green_w {background-color: #7BB661; color: white;} /* green*/
+

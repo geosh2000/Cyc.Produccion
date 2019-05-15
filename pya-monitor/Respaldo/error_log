@@ -1,0 +1,125 @@
+[04-Oct-2016 09:40:05 America/Mexico_City] PHP Fatal error:  Allowed memory size of 104857600 bytes exhausted (tried to allocate 32 bytes) in /home/comeycom/public_html/pt/pya-monitor/query_sesiones.php on line 125
+
+[19-Oct-2016 13:49:46 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/adherencia.php on line 335
+[20-Oct-2016 11:15:18 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 18
+[20-Oct-2016 11:15:18 America/Bogota] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/comeycom/public_html/pt/pya-monitor/index.php on line 77
+[20-Oct-2016 11:15:19 America/Bogota] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 18
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/comeycom/public_html/pt/pya-monitor/index.php on line 287
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 304
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/comeycom/public_html/pt/common/add_exception_test.php on line 10
+[20-Oct-2016 11:15:29 America/Bogota] PHP Warning:  printOptions(): Couldn't fetch mysqli in /home/comeycom/public_html/pt/common/add_exception_test.php on line 15
+[20-Oct-2016 11:20:50 America/Bogota] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 18
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/comeycom/public_html/pt/pya-monitor/index.php on line 287
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 304
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/index.php on line 598
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/comeycom/public_html/pt/common/add_exception_test.php on line 10
+[20-Oct-2016 11:20:54 America/Bogota] PHP Warning:  printOptions(): Couldn't fetch mysqli in /home/comeycom/public_html/pt/common/add_exception_test.php on line 15
+[21-Oct-2016 14:22:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/adherencia.php on line 335
+[21-Oct-2016 14:22:54 America/Bogota] PHP Fatal error:  Function name must be a string in /home/comeycom/public_html/pt/pya-monitor/adherencia.php on line 318
+[21-Oct-2016 14:22:58 America/Bogota] PHP Fatal error:  Function name must be a string in /home/comeycom/public_html/pt/pya-monitor/adherencia.php on line 318
+[27-Oct-2016 07:57:34 America/Bogota] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/pya-monitor/exceptions.php on line 71
+[27-Oct-2016 12:57:27 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[28-Oct-2016 09:31:42 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/adherencia.php on line 335
+[28-Oct-2016 09:31:57 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/adherencia.php on line 335
+[28-Oct-2016 09:33:00 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/adherencia.php on line 335
+[30-Oct-2016 12:59:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/adherencia.php on line 335
+[30-Oct-2016 12:59:18 America/Bogota] PHP Fatal error:  Function name must be a string in /home/comeycom/public_html/pt/pya-monitor/adherencia.php on line 318
+[30-Oct-2016 12:59:29 America/Bogota] PHP Fatal error:  Function name must be a string in /home/comeycom/public_html/pt/pya-monitor/adherencia.php on line 318
+[30-Oct-2016 12:59:33 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pya-monitor/adherencia.php on line 335
+[01-Nov-2016 12:32:50 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[07-Nov-2016 14:04:36 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9

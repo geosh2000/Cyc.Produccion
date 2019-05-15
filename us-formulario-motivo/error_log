@@ -1,0 +1,375 @@
+[11-Jul-2016 15:38:30 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/comeycom/public_html/pt/us-formulario-motivo/index.php:12) in /home2/comeycom/public_html/pt/us-formulario-motivo/index.php on line 14
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 40
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 40
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 40
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 40
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 40
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 40
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 40
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 40
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 40
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 40
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 40
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 40
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 40
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 40
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 40
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 40
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 40
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 40
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 40
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 40
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 40
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Illegal offset type in /home2/comeycom/public_html/pt/common/menu-content.php on line 33
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/comeycom/public_html/pt/common/menu-content.php on line 97
+[11-Jul-2016 15:38:30 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home2/comeycom/public_html/pt/us-formulario-motivo/index.php on line 441
+[23-Jul-2016 15:51:35 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 30
+[23-Jul-2016 15:51:35 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 31
+[23-Jul-2016 15:51:35 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 32
+[23-Jul-2016 15:51:35 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 33
+[23-Jul-2016 15:51:35 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 34
+[23-Jul-2016 15:51:35 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 35
+[23-Jul-2016 15:51:35 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 12 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[27-Jul-2016 18:22:26 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 30
+[27-Jul-2016 18:22:26 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 31
+[27-Jul-2016 18:22:26 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 32
+[27-Jul-2016 18:22:26 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 33
+[27-Jul-2016 18:22:26 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 34
+[27-Jul-2016 18:22:26 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 35
+[27-Jul-2016 18:22:26 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 12 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[01-Aug-2016 17:51:16 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/us-formulario-motivo/index.php:12) in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 14
+[01-Aug-2016 17:51:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 441
+[02-Aug-2016 12:20:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 30
+[02-Aug-2016 12:20:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 31
+[02-Aug-2016 12:20:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 32
+[02-Aug-2016 12:20:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 33
+[02-Aug-2016 12:20:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 34
+[02-Aug-2016 12:20:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 35
+[02-Aug-2016 12:20:52 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 12 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[10-Aug-2016 14:31:39 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/us-formulario-motivo/index.php:12) in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 14
+[10-Aug-2016 14:31:39 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 441
+[25-Aug-2016 13:29:49 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/us-formulario-motivo/index.php:12) in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 14
+[25-Aug-2016 13:29:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 441
+[25-Aug-2016 13:34:22 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 32
+[25-Aug-2016 13:34:22 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 33
+[25-Aug-2016 13:34:22 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 34
+[25-Aug-2016 13:34:22 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 35
+[25-Aug-2016 13:34:22 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 36
+[25-Aug-2016 13:34:22 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 37
+[25-Aug-2016 13:34:22 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 38
+[25-Aug-2016 13:34:22 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 12 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[25-Aug-2016 13:34:28 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /home/comeycom/public_html/pt/common/login.php on line 32
+[25-Aug-2016 13:34:28 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /home/comeycom/public_html/pt/common/login.php on line 33
+[25-Aug-2016 13:34:28 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /home/comeycom/public_html/pt/common/login.php on line 34
+[25-Aug-2016 13:34:28 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /home/comeycom/public_html/pt/common/login.php on line 35
+[25-Aug-2016 13:34:28 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /home/comeycom/public_html/pt/common/login.php on line 36
+[25-Aug-2016 13:34:28 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /home/comeycom/public_html/pt/common/login.php on line 37
+[25-Aug-2016 13:34:28 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 6 in /home/comeycom/public_html/pt/common/login.php on line 38
+[25-Aug-2016 13:34:28 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[25-Aug-2016 13:37:38 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/us-formulario-motivo/index.php:12) in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 14
+[25-Aug-2016 13:37:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 441
+[30-Aug-2016 18:14:18 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/us-formulario-motivo/index.php:12) in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 14
+[30-Aug-2016 18:14:18 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 441
+[02-Sep-2016 10:27:01 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[02-Sep-2016 10:27:01 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[02-Sep-2016 10:27:01 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[02-Sep-2016 10:27:01 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[02-Sep-2016 10:27:01 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[02-Sep-2016 10:27:01 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[02-Sep-2016 10:27:01 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[02-Sep-2016 10:27:01 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[02-Sep-2016 10:27:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 32
+[02-Sep-2016 10:27:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 33
+[02-Sep-2016 10:27:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 34
+[02-Sep-2016 10:27:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 35
+[02-Sep-2016 10:27:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 36
+[02-Sep-2016 10:27:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 37
+[02-Sep-2016 10:27:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 7 in /home/comeycom/public_html/pt/common/login.php on line 38
+[02-Sep-2016 10:27:05 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 13 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[02-Sep-2016 10:27:11 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/us-formulario-motivo/index.php:12) in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 14
+[02-Sep-2016 10:27:11 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 441
+[22-Sep-2016 12:55:34 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/us-formulario-motivo/index.php:12) in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 14
+[22-Sep-2016 12:55:34 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 441
+[22-Sep-2016 13:24:59 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/us-formulario-motivo/index.php:12) in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 14
+[22-Sep-2016 13:24:59 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 441
+[22-Sep-2016 13:38:08 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/us-formulario-motivo/index.php:12) in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 14
+[22-Sep-2016 13:38:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 441
+[22-Sep-2016 15:52:09 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 32
+[22-Sep-2016 15:52:09 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 33
+[22-Sep-2016 15:52:09 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 34
+[22-Sep-2016 15:52:09 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 35
+[22-Sep-2016 15:52:09 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 36
+[22-Sep-2016 15:52:09 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 37
+[22-Sep-2016 15:52:09 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 8 in /home/comeycom/public_html/pt/common/login.php on line 38
+[22-Sep-2016 15:52:09 America/Mexico_City] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home/comeycom/public_html/pt/common/menu.php on line 8
+[22-Sep-2016 16:11:47 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/us-formulario-motivo/index.php:12) in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 14
+[22-Sep-2016 16:11:47 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 441
+[29-Sep-2016 21:10:37 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/us-formulario-motivo/index.php:12) in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 14
+[29-Sep-2016 21:10:37 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 441
+[03-Oct-2016 14:58:49 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/us-formulario-motivo/index.php:12) in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 14
+[03-Oct-2016 14:58:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 441
+[04-Oct-2016 16:24:03 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/us-formulario-motivo/index.php:12) in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 14
+[04-Oct-2016 16:24:03 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 441
+[04-Oct-2016 18:38:38 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/us-formulario-motivo/index.php:12) in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 14
+[04-Oct-2016 18:38:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 441
+[14-Oct-2016 14:11:16 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comeycom/public_html/pt/us-formulario-motivo/index.php:12) in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 14
+[14-Oct-2016 14:11:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/us-formulario-motivo/index.php on line 441

@@ -1,0 +1,8 @@
+[20-Oct-2016 17:35:35 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pdv-tipificacion/reporte.php on line 140
+[20-Oct-2016 17:35:35 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pdv-tipificacion/reporte.php on line 148
+[03-Nov-2016 10:40:39 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pdv-tipificacion/reporte.php on line 140
+[03-Nov-2016 10:40:39 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/pdv-tipificacion/reporte.php on line 148
+[07-Nov-2016 14:17:54 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[07-Nov-2016 14:17:54 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[07-Nov-2016 14:25:21 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[07-Nov-2016 17:49:23 America/Bogota] PHP Fatal error:  Out of memory (allocated 524288) (tried to allocate 72 bytes) in /home/comeycom/public_html/pt/common/menu-content.php on line 23

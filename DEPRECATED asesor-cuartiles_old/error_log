@@ -1,0 +1,6 @@
+[19-Oct-2016 17:11:05 America/Bogota] PHP Warning:  mysql_query(): Unable to save result set in /home/comeycom/public_html/pt/asesor-cuartiles_old/inbound.php on line 759
+[19-Oct-2016 17:11:05 America/Bogota] PHP Warning:  mysql_numrows() expects parameter 1 to be resource, boolean given in /home/comeycom/public_html/pt/asesor-cuartiles_old/inbound.php on line 760
+[19-Oct-2016 17:11:05 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asesor-cuartiles_old/inbound.php on line 765
+[19-Oct-2016 17:11:35 America/Bogota] PHP Warning:  mysql_query(): Unable to save result set in /home/comeycom/public_html/pt/asesor-cuartiles_old/inbound.php on line 759
+[19-Oct-2016 17:11:35 America/Bogota] PHP Warning:  mysql_numrows() expects parameter 1 to be resource, boolean given in /home/comeycom/public_html/pt/asesor-cuartiles_old/inbound.php on line 760
+[19-Oct-2016 17:11:35 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/asesor-cuartiles_old/inbound.php on line 765

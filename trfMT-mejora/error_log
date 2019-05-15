@@ -1,0 +1,6 @@
+[25-Oct-2016 11:22:56 America/Bogota] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/comeycom/public_html/pt/trfMT-mejora/index.php on line 284
+[25-Oct-2016 11:22:56 America/Bogota] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 11 in /home/comeycom/public_html/pt/trfMT-mejora/index.php on line 285
+[25-Oct-2016 11:22:56 America/Bogota] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/trfMT-mejora/index.php on line 286
+[25-Oct-2016 11:23:02 America/Bogota] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 12 in /home/comeycom/public_html/pt/trfMT-mejora/index.php on line 284
+[25-Oct-2016 11:23:02 America/Bogota] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 12 in /home/comeycom/public_html/pt/trfMT-mejora/index.php on line 285
+[25-Oct-2016 11:23:02 America/Bogota] PHP Warning:  Division by zero in /home/comeycom/public_html/pt/trfMT-mejora/index.php on line 286

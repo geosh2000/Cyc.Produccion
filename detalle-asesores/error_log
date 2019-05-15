@@ -1,0 +1,24 @@
+[27-Jun-2016 10:24:49 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home2/comeycom/public_html/pt/connectDB.php on line 8
+[28-Jun-2016 10:38:50 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home2/comeycom/public_html/pt/connectDB.php on line 8
+[30-Jun-2016 18:55:40 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'comeycom_wfm'@'localhost' (using password: YES) in /home2/comeycom/public_html/pt/connectDB.php on line 8
+[13-Jul-2016 16:14:02 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home2/comeycom/public_html/pt/connectDB.php on line 8
+[13-Jul-2016 16:15:12 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home2/comeycom/public_html/pt/connectDB.php on line 8
+[13-Jul-2016 17:14:47 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home2/comeycom/public_html/pt/connectDB.php on line 8
+[14-Jul-2016 15:58:10 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user 'comeycom_wfm'@'localhost' (using password: YES) in /home2/comeycom/public_html/pt/connectDB.php on line 8
+[14-Jul-2016 18:11:00 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user ''@'localhost' (using password: YES) in /home2/comeycom/public_html/pt/connectDB.php on line 8
+[14-Jul-2016 18:13:32 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user ''@'localhost' (using password: YES) in /home2/comeycom/public_html/pt/connectDB.php on line 8
+[14-Jul-2016 18:15:59 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user ''@'localhost' (using password: YES) in /home2/comeycom/public_html/pt/connectDB.php on line 8
+[14-Jul-2016 18:18:26 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user ''@'localhost' (using password: YES) in /home2/comeycom/public_html/pt/connectDB.php on line 8
+[14-Jul-2016 18:20:53 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user ''@'localhost' (using password: YES) in /home2/comeycom/public_html/pt/connectDB.php on line 8
+[14-Jul-2016 18:23:23 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user ''@'localhost' (using password: YES) in /home2/comeycom/public_html/pt/connectDB.php on line 8
+[14-Jul-2016 18:25:51 America/Mexico_City] PHP Warning:  mysql_connect(): Access denied for user ''@'localhost' (using password: YES) in /home2/comeycom/public_html/pt/connectDB.php on line 8
+[14-Sep-2016 14:03:30 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home/comeycom/public_html/pt/connectDB.php on line 9
+[19-Sep-2016 17:37:52 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[11-Oct-2016 18:08:14 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home/comeycom/public_html/pt/connectDB.php on line 9
+[14-Oct-2016 09:29:52 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home/comeycom/public_html/pt/connectDB.php on line 9
+[14-Oct-2016 11:07:55 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home/comeycom/public_html/pt/connectDB.php on line 9
+[01-Nov-2016 12:32:17 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 18
+[03-Nov-2016 10:55:24 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:58:12 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:00:55 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:03:39 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21

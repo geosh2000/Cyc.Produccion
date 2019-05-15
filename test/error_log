@@ -1,0 +1,5 @@
+[03-Nov-2016 11:01:19 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:01:19 America/Mexico_City] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/comeycom/public_html/pt/test/testarray.php on line 51
+[03-Nov-2016 11:03:42 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:03:42 America/Mexico_City] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/comeycom/public_html/pt/test/testarray.php on line 51
+[03-Nov-2016 11:04:17 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/comeycom/public_html/pt/test/testarray.php on line 53

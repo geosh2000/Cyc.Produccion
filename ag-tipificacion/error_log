@@ -1,0 +1,40 @@
+[20-Oct-2016 11:18:50 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[20-Oct-2016 11:18:54 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[20-Oct-2016 11:19:10 America/Bogota] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[20-Oct-2016 11:19:15 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 18
+[20-Oct-2016 11:19:15 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 18
+[20-Oct-2016 11:19:15 America/Mexico_City] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/comeycom/public_html/pt/ag-tipificacion/search_agencia.php on line 9
+[20-Oct-2016 11:38:30 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[21-Oct-2016 20:51:45 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[27-Oct-2016 12:14:47 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[01-Nov-2016 12:33:02 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 18
+[01-Nov-2016 12:33:05 America/Mexico_City] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/comeycom/public_html/pt/ag-tipificacion/search_agencia.php on line 9
+[01-Nov-2016 12:33:05 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[01-Nov-2016 12:33:07 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[01-Nov-2016 12:33:07 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[01-Nov-2016 12:33:09 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[01-Nov-2016 13:34:32 America/Bogota] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[01-Nov-2016 13:34:34 America/Bogota] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 18
+[01-Nov-2016 13:34:34 America/Bogota] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/comeycom/public_html/pt/ag-tipificacion/index.php on line 365
+[01-Nov-2016 13:34:34 America/Bogota] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/comeycom/public_html/pt/ag-tipificacion/index.php on line 388
+[01-Nov-2016 13:34:34 America/Bogota] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/comeycom/public_html/pt/ag-tipificacion/index.php on line 403
+[01-Nov-2016 13:34:34 America/Bogota] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/comeycom/public_html/pt/ag-tipificacion/index.php on line 418
+[03-Nov-2016 10:45:29 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[03-Nov-2016 10:54:49 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:55:01 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:58:52 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:59:04 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:59:11 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:02:16 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:03:33 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[07-Nov-2016 14:12:37 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[07-Nov-2016 14:17:56 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 18
+[07-Nov-2016 14:17:56 America/Mexico_City] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/comeycom/public_html/pt/connectDB.php:21
+Stack trace:
+#0 /home/comeycom/public_html/pt/connectDB.php(21): PDO->__construct('mysql:host=67.2...', 'comeycom_wfm', 'pricetravel2015')
+#1 /home/comeycom/public_html/pt/ag-tipificacion/query.php(8): include('/home/comeycom/...')
+#2 {main}
+  thrown in /home/comeycom/public_html/pt/connectDB.php on line 21
+[07-Nov-2016 14:21:08 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 18
+[07-Nov-2016 14:22:57 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+[07-Nov-2016 14:25:40 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9

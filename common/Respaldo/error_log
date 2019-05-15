@@ -1,0 +1,13 @@
+[14-Oct-2016 09:59:03 America/Mexico_City] PHP Warning:  mysql_connect(): Too many connections in /home/comeycom/public_html/pt/connectDB.php on line 9
+
+[21-Oct-2016 20:45:23 America/Mexico_City] PHP Warning:  Error while sending QUERY packet. PID=960733 in /home/comeycom/public_html/pt/common/logout.php on line 6
+[03-Nov-2016 10:45:30 America/Mexico_City] PHP Warning:  mysqli::query(): MySQL server has gone away in /home/comeycom/public_html/pt/common/login.php on line 73
+[03-Nov-2016 10:45:30 America/Mexico_City] PHP Warning:  mysqli::query(): Error reading result set's header in /home/comeycom/public_html/pt/common/login.php on line 73
+[03-Nov-2016 10:54:31 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:54:31 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:54:36 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:57:05 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 10:57:05 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:02:06 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:02:06 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
+[03-Nov-2016 11:02:07 America/Mexico_City] PHP Warning:  PDO::__construct() expects parameter 4 to be array, string given in /home/comeycom/public_html/pt/connectDB.php on line 21
